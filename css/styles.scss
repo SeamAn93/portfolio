@@ -4,11 +4,13 @@
 
 body {
 	margin: 0;
+	font-family: poppins, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
+	font-family: poppins, sans-serif;
 }
 
 ul, ol {
@@ -24,10 +26,28 @@ li {
 p {
 	margin: 0;
 	padding: 0;
+	font-family: poppins, sans-serif;
 }
 
 img {
 	display: block;
 	max-width: 100%;
 	height: auto;
+}
+
+#bg__header {
+	background-image: linear-gradient(#B520FD, #384BFA);
+}
+
+.nav__logo {
+
+	min-height: 80px;
+
+}
+
+.nav__link__text {
+
+	font-size: large;
+	color: white !important;
+
 }

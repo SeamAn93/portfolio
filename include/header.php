@@ -1,23 +1,29 @@
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid d-flex justify-content-between">
-        <a class="navbar-brand" href="index.php">
-            <img src="img/Aktiv%203.png" alt="Søren Andersen Design">
+<nav class="navbar navbar-expand-lg navbar-light py-2 py-md-4 px-sm-5" id="bg__header">
+    <div class="container-fluid d-inline-flex">
+        <a class="navbar-brand me-auto" href="index.php">
+            <img class="nav__logo" src="img/logo.svg" alt="Søren Andersen Design">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link" href="index.php">Forside</a>
+
+                <li>
+                    <a class="nav-link me-5" href="https://www.linkedin.com/in/s%C3%B8ren-andersen-900379202/">
+                        <img src="img/001-linkedin.svg" alt="linkedin profil" style="height: 32px; width: 32px;">
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="kompetencer.php">Kompetencer</a>
+                    <a class="nav__link__text nav-link me-4" href="index.php">Forside</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav__link__text nav-link pe-1" href="kompetencer.php">Kompetencer</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle ps-0" href="kompetencer.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav__link__text nav-link dropdown-toggle ps-0 me-4" href="kompetencer.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         <span class="visually-hidden">Toggle Dropdown</span>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -28,11 +34,11 @@
                         <li><a class="dropdown-item" href="pdf/CV.pdf">CV</a></li>
                     </ul>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="ommig.php">Om mig</a>
+                <li class="nav-item me-4">
+                    <a class="nav__link__text nav-link" href="ommig.php">Om mig</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="kontakt.php">Kontakt</a>
+                    <a class="nav__link__text nav-link" href="kontakt.php">Kontakt</a>
                 </li>
             </ul>
         </div>
