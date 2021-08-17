@@ -19,7 +19,6 @@
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,11 +27,18 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<?php include 'include/header.php';?>
-
-hej test
-
-<?php include 'include/footer.php';?>
+<?php if (isset($_GET['file'])) {
+    $file = $_GET['file'];
+    if (file_exists($file) && is_readable($file) && preg_match('/\.pdf$/',$file)) {
+        header('Content-Type: application/pdf');
+        header("Content-Disposition: attachment; filename=\"$file\"CV.pdf");
+        readfile($file);
+    }
+} else {
+    header("HTTP/1.0 404 Not Found");
+    echo "<h1>Error 404: File Not Found: <br /><em>$file</em></h1>";
+}
+?>
 
 </body>
 </html>
