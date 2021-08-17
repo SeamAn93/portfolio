@@ -25,7 +25,7 @@
                         <li><a class="dropdown-item" href="visueltdesign.php">Visuelt design</a></li>
                         <li><a class="dropdown-item" href="prototype.php">Prototype</a></li>
                         <li><a class="dropdown-item" href="styleguide.php">Styleguide</a></li>
-                        <li><a class="dropdown-item" href="download.php?file=CV.pdf">CV</a></li>
+                        <li><a class="dropdown-item" href="pdf/CV.pdf">CV</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
