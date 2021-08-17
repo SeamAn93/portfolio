@@ -35,6 +35,13 @@ img {
 	height: auto;
 }
 
+a{
+
+	text-decoration: none;
+
+
+}
+
 #bg__header {
 	background-image: linear-gradient(#B520FD, #384BFA);
 }
@@ -49,5 +56,24 @@ img {
 
 	font-size: large;
 	color: white !important;
+
+}
+
+.footer__social__icon {
+
+	height: 32px;
+	width: 32px;
+
+}
+
+.footer__container {
+
+	background-color: black;
+
+}
+
+.footer__nav__text {
+
+	font-size: medium;
 
 }
