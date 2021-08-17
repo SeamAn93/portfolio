@@ -1,7 +1,7 @@
 {
   "name": "npmtest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Klon dette projekt og kom hurtigt i gang med dit næste projekt.",
   "main": "index.js",
   "scripts": {
     "watch": "onchange \"css/*.scss\" -- npm run sass",
