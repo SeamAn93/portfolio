@@ -31,19 +31,16 @@
 <?php include 'include/header.php';?>
 
 <main class="container mb-5">
-    <h2 class="text-center my-5">Kompetencer</h2>
+    <h2 class="text-center my-5">Visuelt design</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
+                    <a href="img/moodboardmusikvideo.png"><img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Hjemmeside</h5>
-                    <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
-                    <div class="d-flex justify-content-center">
-                        <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Moodboard</h5>
+                    <p class="card-text">Et lille moodboard fra projekt med en musikvideo, der skabte grundlaget for den stemningen og stilen, for det visuelle design.</p>
                 </div>
             </div>
 
@@ -52,14 +49,11 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <a href="img/tid.png"><img src="img/tid.png" class="card-img-top card__img__size" alt="collage"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Visuelt design</h5>
-                    <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Collage</h5>
+                    <p class="card-text">Lidt spas fra min fritid, hvor jeg leget lidt med photoshop og emnet tid og barndom. </p>
                 </div>
             </div>
         </div>
@@ -67,14 +61,11 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                    <a href="img/codeklogprocess.png"><img src="img/codeklogprocess.png" class="card-img-top" alt="processen af logo design"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Prototyper</h5>
-                    <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Logo design</h5>
+                    <p class="card-text"> Logoet kommer fra en lille klub vi skulle lave på studie, hvor man kunne del vide og hjælpe hinanden. I dette tilfælde er klubben tiltænkt for dem, der kan li at kode.</p>
                 </div>
             </div>
         </div>
@@ -82,14 +73,11 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="billeder af styleguide KAFFETÅR'N">
+                    <a href="img/tryktiltshirt.png"><img src="img/tryktiltshirt.png" class="card-img-top" alt="muckup af tryk til t-shirt"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Styleguide</h5>
-                    <p class="card-text">Se hvilke styleguides jeg har lavet, for forskelige virksomheder og brancher.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="styleguide.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Tryk til t-shirt</h5>
+                    <p class="card-text">Trykket her, var grundideen til, hvilke tryk der skulle sælges på i t-shirt shop. Du kan se webshoppen her.</p>
                 </div>
             </div>
         </div>
@@ -97,14 +85,11 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <a href="img/ujmlions.png"><img src="img/ujmlions.png" class="card-img-top" alt="User Journey Map"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">CV</h5>
-                    <p class="card-text">Download mit cv her, og læs mere om mine arbejdserfaringer.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="pdf/CV.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">User Journey Map</h5>
+                    <p class="card-text">Som designer kan det være rart at få visualiseret problemerne på en hjemmeside fra kundens synsvinkel, så man forstå deres problem. Det kan et User Journey Map hjælpe med. Her ses et, før re-designet af Lions website.</p>
                 </div>
             </div>
         </div>
