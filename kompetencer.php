@@ -36,7 +36,7 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
+                    <img src="img/navneflasken.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">Hjemmeside</h5>
@@ -97,7 +97,7 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <img src="img/CV.jpg" class="card-img-top" alt="moodboard til musikvideoprojekt">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">CV</h5>
