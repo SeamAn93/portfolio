@@ -40,9 +40,9 @@
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">Hjemmeside</h5>
-                    <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
+                    <p class="card-text">I dette projekt, var der flere typer af logoer. Derfor var det vigtig at få beskrevet hvor og hvordan, logoerne skulle bruges. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="http://www.s-andersen.dk/Kaffetaarn/" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <img src="img/" class="card-img-top" alt="moodboard til musikvideoprojekt">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">Visuelt design</h5>
