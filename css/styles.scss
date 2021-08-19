@@ -65,6 +65,17 @@ a{
 
 }
 
+.card__img__size {
+
+	width: 286px;
+	height: 286px;
+	object-fit: contain;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
 #bg__header {
 	background-image: linear-gradient(#B520FD, #384BFA);
 }
@@ -118,6 +129,17 @@ a{
 		width: 20rem !important;
 	}
 
+	.card__img__size {
+
+		width: 318px;
+		height: 318px;
+		object-fit: contain;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+
+
+	}
 }
 
 

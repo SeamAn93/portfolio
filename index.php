@@ -50,35 +50,48 @@
 
 <section class="container mt-5 mb-4">
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
-        <div class="col mb-3">
+        <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size">
                 <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
+                </div>
                 <div class="card-body">
-                    <h5 class="card-title">Websits</h5>
+                    <h5 class="card-title text-center mb-3">Hjemmeside</h5>
                     <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
-                    <a href="#" class="btn btn-primary">Klik her</a>
+                    <div class="d-flex justify-content-center">
+                    <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                    </div>
                 </div>
             </div>
+
         </div>
 
-        <div class="col mb-3">
+        <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size">
                 <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                </div>
                 <div class="card-body">
-                    <h5 class="card-title">Visuelt design</h5>
+                    <h5 class="card-title text-center mb-3">Visuelt design</h5>
                     <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
-                    <a href="#" class="btn btn-primary">Klik her</a>
+                    <div class="d-flex justify-content-center">
+                    <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="col mb-3">
+        <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
-                <img src="img/muckupslokalitee.PNG" class="card-img-top" alt="muckups til webshop LOKALITEE">
+                <div class="card__img__size">
+                <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                </div>
                 <div class="card-body">
-                    <h5 class="card-title">Prototyper</h5>
+                    <h5 class="card-title text-center mb-3">Prototyper</h5>
                     <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
-                    <a href="#" class="btn btn-primary">Klik her</a>
+                    <div class="d-flex justify-content-center">
+                    <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                    </div>
                 </div>
             </div>
         </div>
