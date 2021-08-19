@@ -103,7 +103,7 @@
                     <h5 class="card-title text-center mb-3">CV</h5>
                     <p class="card-text">Download mit cv her, og læs mere om mine arbejdserfaringer.</p>
                     <div class="d-flex justify-content-center">
-                        <a href="pdf/CV.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="pdf/CV2.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>

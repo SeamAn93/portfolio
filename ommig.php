@@ -86,7 +86,7 @@
                 </div>
             </div>
             <div class="d-grid gap-2 gap-md-5 col-6 mx-auto d-md-flex col-md-10 justify-content-md-center">
-                <a href="pdf/CV.pdf" class="btn btn-primary btn-lg mt-4 mt-md-5">Download CV</a>
+                <a href="pdf/CV2.pdf" class="btn btn-primary btn-lg mt-4 mt-md-5">Download CV</a>
                 <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 mt-md-5">Kontakt mig</a>
             </div>
         </div>
