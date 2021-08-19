@@ -76,6 +76,27 @@ a{
 
 }
 
+.section__img {
+
+	object-fit: contain;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.hej {
+
+	max-width: 750px;
+
+}
+
+.section__flex {
+
+	flex: 1 1 0px;
+
+}
+
 #bg__header {
 	background-image: linear-gradient(#B520FD, #384BFA);
 }
@@ -127,6 +148,12 @@ a{
 	.card {
 
 		width: 20rem !important;
+	}
+
+	.section__img {
+
+		max-width: 530px;
+
 	}
 
 	.card__img__size {

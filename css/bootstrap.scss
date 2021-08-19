@@ -14,7 +14,8 @@ $custom-colors: (
  */
 
 $custom-colors: (
-        "primary": #0060F9
+        "primary": #0060F9,
+        "black": #000000
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
