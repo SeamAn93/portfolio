@@ -35,7 +35,7 @@
     <h3 class="text-xl-center mb-4">Hej med dig</h3>
         <p class="text-xl-center">Jeg hedder Søren og studere til Multimediedesign på Zealand.
             <br><br>
-            Website, grafisk design, UX/UI.
+            Front-end, SEO, brand image, grafisk design.
             <br><br>
             Se hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
