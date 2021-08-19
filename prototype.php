@@ -31,35 +31,29 @@
 <?php include 'include/header.php';?>
 
 <main class="container mb-5">
-    <h2 class="text-center my-5">Kompetencer</h2>
+    <h2 class="text-center my-5">Prototype</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
-        <div class="col mb-5">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Hjemmeside</h5>
-                    <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
-                    <div class="d-flex justify-content-center">
-                        <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
-                </div>
+
+    <div class="col mb-5">
+        <div class="card mx-auto" style="width: 18rem;">
+            <div class="card__img__size">
+                <a href="img/om-oskaffetaarn.png"><img src="img/om-oskaffetaarn.png" class="card-img-top" alt="wireframe til KAFFETÅR'N om os side"></a>
             </div>
-
+            <div class="card-body">
+                <h5 class="card-title text-center mb-3">Wireframes til "Om os" side</h5>
+                <p class="card-text">De første ideer, til side “om os” side for websitet Kaffetar’n. Der sket et par iteration undervejs, hvilket kan ses på det færdig website.</p>
+            </div>
         </div>
+    </div>
 
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <a href="img/wireframnavneflasken.png"><img src="img/wireframnavneflasken.png" class="card-img-top" alt="wireframes til betalingsside Navneflasken"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Visuelt design</h5>
-                    <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Wireframes til betalingsside</h5>
+                    <p class="card-text">Her har jeg lavet wireframs til opsætning af en betalingsside, som jeg havde ansvaret for at kode, til hjemmesiden Navneflasken.</p>
                 </div>
             </div>
         </div>
@@ -67,14 +61,11 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                    <a href="img/muckupnavneflasken.png"><img src="img/muckupnavneflasken.png" class="card-img-top card__img__size" alt="muckups til Navneflasken"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Prototyper</h5>
-                    <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Muckups af betalingsside</h5>
+                    <p class="card-text">Her har jeg lavet mockups til betalingssiden i mit trejde projekt. Jeg lagde vægt på, at lave et enkelt og overskudeligt design for brugeren, bl.a. ved den oversigtliste, der viser forløbet ved betalingen.</p>
                 </div>
             </div>
         </div>
@@ -82,29 +73,11 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="billeder af styleguide KAFFETÅR'N">
+                    <a href="img/muckupslokalitee.png"><img src="img/muckupslokalitee.png" class="card-img-top card__img__size" alt="muckups af LOKALITEE"></a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Styleguide</h5>
-                    <p class="card-text">Se hvilke styleguides jeg har lavet, for forskelige virksomheder og brancher.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="styleguide.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mb-5">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title text-center mb-3">CV</h5>
-                    <p class="card-text">Download mit cv her, og læs mere om mine arbejdserfaringer.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="pdf/CV.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
+                    <h5 class="card-title text-center mb-3">Muckups til Wordpress</h5>
+                    <p class="card-text">Til t-shirt shoppen brugt jeg Wordpress til at design siden. Jeg fandt til det først et tema, jeg kunne li og derefter lavet jeg et muckups, for at få fornemmelsen af, hvordan det ville se ud, med billeder, farver mm.</p>
                 </div>
             </div>
         </div>
