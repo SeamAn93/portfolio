@@ -39,8 +39,8 @@
                     <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Hjemmeside</h5>
-                    <p class="card-text">I dette projekt, var der flere typer af logoer. Derfor var det vigtig at få beskrevet hvor og hvordan, logoerne skulle bruges. </p>
+                    <h5 class="card-title text-center mb-3">KAFFETÅR'N</h5>
+                    <p class="card-text">Her var problemet, at kunder ikke helt vidste, hvor caféen lå. Men med en “Find vej” side, med et google maps, gjorde det nemt for kunde at visuelisere, hvor sted er. Og med lidt god SEO, står man højt på søgemaskinernes lister og bliver hurtigere set. Tjek også “Om Kaffetår’n”, som jeg også har stået for.  </p>
                     <div class="d-flex justify-content-center">
                         <a href="http://www.s-andersen.dk/Kaffetaarn/" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
@@ -52,13 +52,13 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <img src="img/lions.png" class="card-img-top" alt="billede af tilmeldingside hos Lions">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Visuelt design</h5>
-                    <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
+                    <h5 class="card-title text-center mb-3">Lions</h5>
+                    <p class="card-text"> Det var svært for kunde at finde ud af, hvad forskellig på at være frivillig eller være medlem var. Derfor gjorde jeg det klar for kunden, med korte præcise tekster og semiotik, hvad forskellen er. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="http://www.s-andersen.dk/master/" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
@@ -67,13 +67,13 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                    <img src="img/navneflasken.png" class="card-img-top card__img__size" alt="billede af betalingsside på Navneflasken">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Prototyper</h5>
-                    <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
+                    <h5 class="card-title text-center mb-3">Navneflasken</h5>
+                    <p class="card-text"> Det skal være let og forståeligt, at købe sine vare på nettet. Derfor har jeg her, skabt en let betalingsforløb for kunden fra man indtaster sin adresse, til at købet er gået igennem. Der er i alt 5 sider. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="http://www.s-andersen.dk/tema3kundeinfo/" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
@@ -82,28 +82,13 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="billeder af styleguide KAFFETÅR'N">
+                    <img src="img/lokalitee.png" class="card-img-top" alt="billede webshoppen lokalitee">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Styleguide</h5>
-                    <p class="card-text">Se hvilke styleguides jeg har lavet, for forskelige virksomheder og brancher.</p>
+                    <h5 class="card-title text-center mb-3">LOKALITEE</h5>
+                    <p class="card-text">Wordpress er en hurtig og nem måde, at få fx en t-shirt shop, op at kører. Her ses en del af forside, hvor de bedste produkterne bliver vist og hurtig kan lægges i kurven. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="styleguide.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mb-5">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title text-center mb-3">CV</h5>
-                    <p class="card-text">Download mit cv her, og læs mere om mine arbejdserfaringer.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="pdf/CV.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="http://www.s-andersen.dk/lokalitee/" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
