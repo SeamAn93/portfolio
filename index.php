@@ -30,7 +30,7 @@
 
 <?php include 'include/header.php';?>
 
-hej test
+<div class="text-center">Text</div>
 
 <?php include 'include/footer.php';?>
 

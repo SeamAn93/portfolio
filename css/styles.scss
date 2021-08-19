@@ -39,7 +39,6 @@ a{
 
 	text-decoration: none;
 
-
 }
 
 #bg__header {
@@ -69,6 +68,7 @@ a{
 .footer__container {
 
 	background-color: black;
+	border-top: solid 4px #0060F9;
 
 }
 
@@ -76,4 +76,22 @@ a{
 
 	font-size: medium;
 
+}
+
+@media only screen and (min-width: 992px) {
+
+	.footer__contact {
+
+		width: 200px;
+	}
+
+	.footer__social {
+
+		width: 200px;
+	}
+
+	.footer__nav {
+
+		width: 200px;
+	}
 }
