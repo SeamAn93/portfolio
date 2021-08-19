@@ -33,7 +33,7 @@
 <section class="flex-column bg-white">
     <div class="container flex-column">
         <h2 class="text-center mb-3 mt-5 ">Kontakt mig</h2>
-        <p class="text-center pb-5 fs-5 hej mx-auto">
+        <p class="text-center pb-5 fs-5 mx-auto">
             Har du noget der skal designes?
             <br>
             Så ring eller skriv.
