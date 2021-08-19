@@ -31,18 +31,18 @@
 <?php include 'include/header.php';?>
 
 <main class="container mb-5">
-    <h2 class="text-center my-5">Kompetencer</h2>
+    <h2 class="text-center my-5">Styleguide</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
+                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="Styleguide KAFFETÅR'N">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Hjemmeside</h5>
-                    <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
+                    <h5 class="card-title text-center mb-3">KAFFETÅR'N</h5>
+                    <p class="card-text"> I dette projekt, var der flere typer af logoer. Derfor var det vigtig at få beskrevet hvor og hvordan, logoerne skulle bruges. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="pdf/Styleguide%20Kaffetår'n.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
@@ -52,13 +52,13 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <img src="img/musikstyleguide.png" class="card-img-top" alt="Styleguide til musikvideo">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Visuelt design</h5>
-                    <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
+                    <h5 class="card-title text-center mb-3">The Heart of the Stoics</h5>
+                    <p class="card-text">Her var der især fokus på billederne, da de skulle være med til at vis den stemning, der kom til udtryk i musikvideoen, når der fx skulle laves plakater eller opslag på de sociale medier. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="pdf/Styleguide%20musikvideo.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
@@ -67,43 +67,13 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                    <img src="img/lionsstyleguide.png" class="card-img-top card__img__size" alt="styleguide Lions">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">Prototyper</h5>
-                    <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
+                    <p class="card-text">For en stor velgørenhedsorganisation som Lions er det vigtig at typografien og farver er ens og fastsat, så brandet står klart og tydeligt. Derfor lagde jeg vægt på at få beskrevet det så godt, som muligt, så de små lokale klubber, kunne holde det. </p>
                     <div class="d-flex justify-content-center">
-                        <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mb-5">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="billeder af styleguide KAFFETÅR'N">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Styleguide</h5>
-                    <p class="card-text">Se hvilke styleguides jeg har lavet, for forskelige virksomheder og brancher.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="styleguide.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mb-5">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title text-center mb-3">CV</h5>
-                    <p class="card-text">Download mit cv her, og læs mere om mine arbejdserfaringer.</p>
-                    <div class="d-flex justify-content-center">
-                        <a href="pdf/CV.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                        <a href="pdf/Styleguide%20Lions.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
