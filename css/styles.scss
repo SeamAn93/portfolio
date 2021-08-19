@@ -41,6 +41,30 @@ a{
 
 }
 
+.main{
+
+	background-color: black;
+	color: black;
+
+}
+
+.main__text {
+
+	max-width: 300px;
+}
+
+.main__image {
+
+	max-width: 170px;
+
+}
+
+.btn {
+
+	color: white;
+
+}
+
 #bg__header {
 	background-image: linear-gradient(#B520FD, #384BFA);
 }
@@ -77,6 +101,25 @@ a{
 	font-size: medium;
 
 }
+@media only screen and (min-width: 768px) {
+
+	.main__image{
+
+		max-width: 250px;
+	}
+
+	.main__text {
+
+		max-width: 400px;
+	}
+
+	.card {
+
+		width: 20rem !important;
+	}
+
+}
+
 
 @media only screen and (min-width: 992px) {
 
@@ -94,4 +137,20 @@ a{
 
 		width: 300px;
 	}
+
+	.main__text {
+
+		max-width: 500px;
+
+	}
 }
+
+@media only screen and (min-width: 1200px) {
+
+	.main__image{
+
+		max-width: 500px;
+	}
+
+}
+
