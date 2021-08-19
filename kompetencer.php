@@ -31,7 +31,7 @@
 <?php include 'include/header.php';?>
 
 <main class="container mb-5">
-    <h2 class="text-center my-5">Kompetencer</h2>
+    <h2 class="text-center my-5">Hjemmesider</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
@@ -97,7 +97,7 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/CV.jpg" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <img src="img/CV.jpg" class="card-img-top" alt="moodboard til musikvideoprojekt" style="height: 125%;">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">CV</h5>
