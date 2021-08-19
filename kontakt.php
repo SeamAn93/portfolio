@@ -40,11 +40,11 @@
         </p>
         <h2 class="mb-4 text-center">Sociale medier</h2>
         <div class="footer__social__item d-flex justify-content-center mb-5">
-            <a class="">
-                <img class="footer__social__icon mx-2" src="img/001-linkedin.svg" alt="linkedin profil">
+            <a class="" href="https://www.linkedin.com/in/s%C3%B8ren-andersen-900379202/">
+                <img class="footer__social__icon mx-2" src="img/005-linkedin-1.svg" alt="linkedin profil">
             </a>
-            <a class="">
-                <img class="footer__social__icon mx-2" src="img/001-linkedin.svg" alt="?">
+            <a class="" href="https://github.com/SeamAn93">
+                <img class="footer__social__icon mx-2" src="img/002-github-1.svg" alt="GitHub profil">
             </a>
         </div>
         <h2 class="text-center mb-4 ">Ring til mig</h2>

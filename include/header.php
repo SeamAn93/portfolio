@@ -10,10 +10,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-
                 <li>
-                    <a class="nav-link me-5" href="https://www.linkedin.com/in/s%C3%B8ren-andersen-900379202/">
-                        <img src="img/001-linkedin.svg" alt="linkedin profil" style="height: 32px; width: 32px;">
+                    <a class="nav-link me-3" href="https://www.linkedin.com/in/s%C3%B8ren-andersen-900379202/">
+                        <img src="img/005-linkedin-1.svg" alt="linkedin profil" style="height: 32px; width: 32px;">
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link me-4" href="https://github.com/SeamAn93">
+                        <img src="img/002-github-1.svg" alt="GitHub profil" style="height: 32px; width: 32px;">
                     </a>
                 </li>
                 <li class="nav-item">

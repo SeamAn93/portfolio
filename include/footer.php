@@ -11,11 +11,11 @@
     <div class="footer__social text-center text-white mt-5">
         <h4 class="mb-3">Følg mig</h4>
         <div class="footer__social__item d-flex justify-content-center">
-        <a class="">
-            <img class="footer__social__icon mx-2" src="img/001-linkedin.svg" alt="linkedin profil">
+        <a class="" href="https://www.linkedin.com/in/s%C3%B8ren-andersen-900379202/">
+            <img class="footer__social__icon mx-2" src="img/005-linkedin-1.svg" alt="linkedin profil">
         </a>
-        <a class="">
-            <img class="footer__social__icon mx-2" src="img/001-linkedin.svg" alt="?">
+        <a class="" href="https://github.com/SeamAn93">
+            <img class="footer__social__icon mx-2" src="img/002-github-1.svg" alt="?">
         </a>
         </div>
     </div>
