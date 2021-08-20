@@ -49,7 +49,7 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <a href="img/wireframnavneflasken.png"><img src="img/wireframnavneflasken.png" class="card-img-top" alt="wireframes til betalingsside Navneflasken"></a>
+                    <a href="img/wireframnavneflasken.PNG"><img src="img/wireframnavneflasken.PNG" class="card-img-top" alt="wireframes til betalingsside Navneflasken"></a>
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">Wireframes til betalingsside</h5>
@@ -73,7 +73,7 @@
         <div class="col mb-5">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <a href="img/muckupslokalitee.png"><img src="img/muckupslokalitee.png" class="card-img-top card__img__size" alt="muckups af LOKALITEE"></a>
+                    <a href="img/muckupslokalitee.PNG"><img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups af LOKALITEE"></a>
                 </div>
                 <div class="card-body">
                     <h5 class="card-title text-center mb-3">Muckups til Wordpress</h5>
