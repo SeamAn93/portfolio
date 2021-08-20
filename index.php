@@ -46,7 +46,7 @@
     </div>
 
     <div class="ps-1 pe-2">
-        <img class="main__image rounded" src="img/søren3.jpg" alt="billede af Søren">
+        <img class="main__image rounded" src="img/søren.jpg" alt="billede af Søren">
     </div>
 </main>
 
