@@ -4,13 +4,13 @@
 
 body {
 	margin: 0;
-	font-family: poppins, sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
-	font-family: poppins, sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 ul, ol {
@@ -26,7 +26,7 @@ li {
 p {
 	margin: 0;
 	padding: 0;
-	font-family: poppins, sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -36,72 +36,64 @@ img {
 }
 
 a{
-
 	text-decoration: none;
-
 }
 
 .main{
-
 	background-color: black;
 	color: black;
-
 }
 
 .main__text {
-
 	max-width: 300px;
 }
 
-.main__image {
+.main__text__header{
+	font-family: 'Metrophobic', sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+}
 
+.main__text__body{
+	font-family: 'Metrophobic', sans-serif;
+	font-size: medium;
+}
+
+.main__image {
 	max-width: 170px;
 
 }
 
 .btn {
-
 	color: white;
-
 }
 
 .card__img__size {
-
 	width: 286px;
 	height: 286px;
 	object-fit: contain;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 
 a:hover{
-
 		color: #0060F9;
-
-
 }
 
 .section__img {
-
 	object-fit: contain;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 
 .hej {
-
 	max-width: 750px;
-
 }
 
 .section__flex {
-
 	flex: 1 1 0px;
-
 }
 
 #bg__header {
@@ -109,104 +101,88 @@ a:hover{
 }
 
 .nav__logo {
-
 	min-height: 80px;
-
 }
 
 .nav__link__text {
-
 	font-size: large;
 	color: white !important;
-
 }
 
 .footer__social__icon {
-
 	height: 32px;
 	width: 32px;
-
 }
 
 .footer__container {
-
 	background-color: black;
 	border-top: solid 4px #0060F9;
-
 }
 
 .footer__nav__text {
-
 	font-size: medium;
-
 }
+
 @media only screen and (min-width: 768px) {
 
 	.main__image{
-
 		max-width: 250px;
 	}
 
 	.main__text {
-
 		max-width: 400px;
 	}
 
-	.card {
+	.main__text__body{
+		font-size: larger;
+	}
 
+	.card {
 		width: 20rem !important;
 	}
 
 	.section__img {
-
 		max-width: 530px;
-
 	}
 
 	.card__img__size {
-
 		width: 318px;
 		height: 318px;
 		object-fit: contain;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-
-
 	}
 }
-
 
 @media only screen and (min-width: 992px) {
 
 	.footer__contact {
-
 		width: 300px;
 	}
 
 	.footer__social {
-
 		width: 300px;
 	}
 
 	.footer__nav {
-
 		width: 300px;
 	}
 
 	.main__text {
-
 		max-width: 500px;
+	}
 
+	.main__text__header{
+		font-family: 'Metrophobic', sans-serif;
+		font-size: 50px;
+		font-weight: 600;
 	}
 }
 
 @media only screen and (min-width: 1200px) {
 
 	.main__image{
-
 		max-width: 500px;
 	}
-
 }
-

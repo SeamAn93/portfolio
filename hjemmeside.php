@@ -31,7 +31,7 @@
 <?php include 'include/header.php';?>
 
 <main class="container mb-5">
-    <h2 class="text-center my-5">Hjemmesider</h2>
+    <h2 class="text-center my-5">Website</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
