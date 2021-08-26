@@ -33,15 +33,15 @@
 <main class="container mb-5">
     <h2 class="text-center my-5">Styleguide</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
-        <div class="col mb-5">
+        <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
                     <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="Styleguide KAFFETÅR'N">
                 </div>
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">KAFFETÅR'N</h5>
                     <p class="card-text"> I dette projekt, var der flere typer af logoer. Derfor var det vigtig at få beskrevet hvor og hvordan, logoerne skulle bruges. </p>
-                    <div class="d-flex justify-content-center">
+                    <div class="d-flex justify-content-center mt-auto">
                         <a href="pdf/Styleguide%20Kaffetår'n.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
@@ -49,30 +49,30 @@
 
         </div>
 
-        <div class="col mb-5">
+        <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
                     <img src="img/musikstyleguide.png" class="card-img-top" alt="Styleguide til musikvideo">
                 </div>
-                <div class="card-body">
+                <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">The Heart of the Stoics</h5>
                     <p class="card-text">Her var der især fokus på billederne, da de skulle være med til at vis den stemning, der kom til udtryk i musikvideoen, når der fx skulle laves plakater eller opslag på de sociale medier. </p>
-                    <div class="d-flex justify-content-center">
+                    <div class="d-flex justify-content-center mt-auto">
                         <a href="pdf/Styleguide%20musikvideo.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="col mb-5">
+        <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
                     <img src="img/lionsstyleguide.png" class="card-img-top card__img__size" alt="styleguide Lions">
                 </div>
-                <div class="card-body">
-                    <h5 class="card-title text-center mb-3">Prototyper</h5>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">Lions</h5>
                     <p class="card-text">For en stor velgørenhedsorganisation som Lions er det vigtig at typografien og farver er ens og fastsat, så brandet står klart og tydeligt. Derfor lagde jeg vægt på at få beskrevet det så godt, som muligt, så de små lokale klubber, kunne holde det. </p>
-                    <div class="d-flex justify-content-center">
+                    <div class="d-flex justify-content-center mt-auto">
                         <a href="pdf/Styleguide%20Lions.pdf" class="btn btn-primary btn-lg mt-4">Klik her</a>
                     </div>
                 </div>
