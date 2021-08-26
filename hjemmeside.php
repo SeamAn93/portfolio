@@ -31,12 +31,12 @@
 <?php include 'include/header.php';?>
 
 <main class="container mb-5">
-    <h2 class="text-center my-5">Kompetencer</h2>
+    <h2 class="text-center my-5">Hjemmesider</h2>
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/kaffetaarn.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
+                <div class="card__img__size bg-imgcard">
+                    <img src="img/kaffetaarn.png" class="card-img-top card__img__size" alt="billede af websit til KAFFETÅR'N">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">KAFFETÅR'N</h5>
@@ -51,8 +51,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/lions.png" class="card-img-top" alt="billede af tilmeldingside hos Lions">
+                <div class="card__img__size bg-imgcard">
+                    <img src="img/lions.png" class="card-img-top card__img__size" alt="billede af tilmeldingside hos Lions">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Lions</h5>
@@ -66,7 +66,7 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
+                <div class="card__img__size bg-imgcard">
                     <img src="img/navneflasken.png" class="card-img-top card__img__size" alt="billede af betalingsside på Navneflasken">
                 </div>
                 <div class="card-body d-flex flex-column">
@@ -81,8 +81,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/lokalitee.png" class="card-img-top" alt="billede webshoppen lokalitee">
+                <div class="card__img__size bg-imgcard">
+                    <img src="img/lokalitee.png" class="card-img-top card__img__size" alt="billede webshoppen lokalitee">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">LOKALITEE</h5>

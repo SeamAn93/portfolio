@@ -54,8 +54,8 @@
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                <img src="img/navneflasken.png" class="card-img-top" alt="billede af websit til KAFFETÅR'N">
+                <div class="card__img__size bg-imgcard">
+                <img src="img/navneflasken.png" class="card-img-top card__img__size" alt="billede af websit til KAFFETÅR'N">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Hjemmeside</h5>
@@ -70,8 +70,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                <img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                <div class="card__img__size bg-imgcard">
+                <img src="img/moodboardmusikvideo.png" class="card-img-top card__img__size" alt="moodboard til musikvideoprojekt">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Visuelt design</h5>
@@ -85,7 +85,7 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
+                <div class="card__img__size bg-imgcard">
                 <img src="img/muckupslokalitee.png" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
                 </div>
                 <div class="card-body d-flex flex-column">

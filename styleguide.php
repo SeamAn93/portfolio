@@ -35,8 +35,8 @@
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top" alt="Styleguide KAFFETÅR'N">
+                <div class="card__img__size bg-imgcard">
+                    <img src="img/kaffetaarnstyleguide.png" class="card-img-top card__img__size" alt="Styleguide KAFFETÅR'N">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">KAFFETÅR'N</h5>
@@ -51,8 +51,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <img src="img/musikstyleguide.png" class="card-img-top" alt="Styleguide til musikvideo">
+                <div class="card__img__size bg-imgcard">
+                    <img src="img/musikstyleguide.png" class="card-img-top card__img__size" alt="Styleguide til musikvideo">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">The Heart of the Stoics</h5>
@@ -66,7 +66,7 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
+                <div class="card__img__size bg-imgcard">
                     <img src="img/lionsstyleguide.png" class="card-img-top card__img__size" alt="styleguide Lions">
                 </div>
                 <div class="card-body d-flex flex-column">

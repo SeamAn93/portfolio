@@ -35,8 +35,8 @@
     <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <a href="img/moodboardmusikvideo.png"><img src="img/moodboardmusikvideo.png" class="card-img-top" alt="moodboard til musikvideoprojekt"></a>
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/moodboardmusikvideo.png"><img src="img/moodboardmusikvideo.png" class="card-img-top card__img__size" alt="moodboard til musikvideoprojekt"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Moodboard</h5>
@@ -48,7 +48,7 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
+                <div class="card__img__size bg-imgcard">
                     <a href="img/tid.png"><img src="img/tid.png" class="card-img-top card__img__size" alt="collage"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
@@ -60,8 +60,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <a href="img/codeklogprocess.png"><img src="img/codeklogprocess.png" class="card-img-top" alt="processen af logo design"></a>
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/codeklogprocess.png"><img src="img/codeklogprocess.png" class="card-img-top card__img__size" alt="processen af logo design"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Logo design</h5>
@@ -72,8 +72,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <a href="img/tryktiltshirt.png"><img src="img/tryktiltshirt.png" class="card-img-top" alt="muckup af tryk til t-shirt"></a>
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/tryktiltshirt.png"><img src="img/tryktiltshirt.png" class="card-img-top card__img__size" alt="muckup af tryk til t-shirt"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Tryk til t-shirt</h5>
@@ -84,8 +84,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <a href="img/ujmlions.png"><img src="img/ujmlions.png" class="card-img-top" alt="User Journey Map"></a>
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/ujmlions.png"><img src="img/ujmlions.png" class="card-img-top card__img__size" alt="User Journey Map"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">User Journey Map</h5>

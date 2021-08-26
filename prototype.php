@@ -36,8 +36,8 @@
 
     <div class="col mb-5 d-flex align-items-stretch">
         <div class="card mx-auto" style="width: 18rem;">
-            <div class="card__img__size">
-                <a href="img/om-oskaffetaarn.png"><img src="img/om-oskaffetaarn.png" class="card-img-top" alt="wireframe til KAFFETÅR'N om os side"></a>
+            <div class="card__img__size bg-imgcard">
+                <a href="img/om-oskaffetaarn.png"><img src="img/om-oskaffetaarn.png" class="card-img-top card__img__size" alt="wireframe til KAFFETÅR'N om os side"></a>
             </div>
             <div class="card-body d-flex flex-column">
                 <h5 class="card-title text-center mb-3">Wireframes til "Om os" side</h5>
@@ -48,8 +48,8 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
-                    <a href="img/wireframnavneflasken.png"><img src="img/wireframnavneflasken.png" class="card-img-top" alt="wireframes til betalingsside Navneflasken"></a>
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/wireframnavneflasken.png"><img src="img/wireframnavneflasken.png" class="card-img-top card__img__size" alt="wireframes til betalingsside Navneflasken"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Wireframes til betalingsside</h5>
@@ -60,7 +60,7 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
+                <div class="card__img__size bg-imgcard">
                     <a href="img/muckupnavneflasken.png"><img src="img/muckupnavneflasken.png" class="card-img-top card__img__size" alt="muckups til Navneflasken"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
@@ -72,7 +72,7 @@
 
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size">
+                <div class="card__img__size bg-imgcard">
                     <a href="img/muckupslokalitee.png"><img src="img/muckupslokalitee.png" class="card-img-top card__img__size" alt="muckups af LOKALITEE"></a>
                 </div>
                 <div class="card-body d-flex flex-column">
