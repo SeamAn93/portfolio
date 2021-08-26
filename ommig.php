@@ -14,6 +14,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="icon" type="img/logo_icon">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -27,7 +28,7 @@
         <img src="img/søren2.jpeg" alt="billede af Søren" class="section__img rounded">
     </div>
     <div class="align-self-center section__flex">
-        <h2 class="text-center text-white mb-3 ">Hvem er jeg?</h2>
+        <h2 class="text-center text-white mb-4 ">Hvem er jeg?</h2>
         <p class="text-white pb-5 pb-xl-0 hej mx-auto">
             Jeg hedder Søren Andersen og kommer fra det flade Lolland nær Sakskøbing.
             <br>
@@ -48,7 +49,7 @@
 <section class="flex-column bg-white">
     <div class="container d-xl-flex gap-xl-5">
         <div class="section__flex">
-            <h2 class="text-center mb-3 pt-5">Hvad kan jeg?</h2>
+            <h2 class="text-center mb-4 pt-5">Hvad kan jeg?</h2>
             <p class="hej mx-auto">
                 Jeg er god til at strukturere mine projekter, hjælpe andre og skabe et image helt fra bunden.
             </p>
@@ -77,13 +78,13 @@
                 </div>
             </div>
             <div class="d-grid gap-2 gap-md-5 col-6 mx-auto d-md-flex col-md-10 justify-content-md-center">
-                <a href="pdf/CV2.pdf" class="btn btn-primary btn-lg mt-4 mt-md-5">Download CV</a>
+                <a href="pdf/CV2.pdf" target="_blank" class="btn btn-primary btn-lg mt-4 mt-md-5">Download CV</a>
                 <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 mt-md-5">Kontakt mig</a>
             </div>
         </div>
 
         <div class="section__flex">
-            <h2 class="text-center mb-3 pt-5">Hvorfor lige multimediefaget?</h2>
+            <h2 class="text-center mb-4 pt-5">Hvorfor lige multimediefaget?</h2>
             <p class="pb-5 mx-auto hej">
                 Jeg har altid haft det sjovt med at kreere, lige fra at bygge med Lego da jeg var lille, til at skrive musik da jeg var trommeleder, eller skabe en cool karakter i et spil.
                 <br>

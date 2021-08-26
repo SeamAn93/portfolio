@@ -16,6 +16,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Metrophobic&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="icon" type="img/logo_icon">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -51,7 +52,7 @@
                     <h5 class="card-title text-center mb-3">Website</h5>
                     <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                    <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
@@ -60,13 +61,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/moodboardmusikvideo.png" class="card-img-top card__img__size" alt="moodboard til musikvideoprojekt">
+                <img src="img/moodboardmusikvideo.jpg" class="card-img-top card__img__size" alt="moodboard til musikvideoprojekt">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Visuelt design</h5>
                     <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                    <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
@@ -81,7 +82,7 @@
                     <h5 class="card-title text-center mb-3">Prototyper</h5>
                     <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Klik her</a>
+                    <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
