@@ -76,7 +76,7 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/muckupslokalitee.png" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Prototyper</h5>
