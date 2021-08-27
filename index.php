@@ -2,14 +2,15 @@
 <html lang="da">
 <head>
     <meta charset="utf-8">
-
-    <title>Hej med dig - Søren Andersen Design - Forside</title>
-
+    <title>Søren Andersen Design - Website der bliver set - Brand image, website, SEO, grafisk desgin, visuelt design</title>
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
-    <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="Front-end, hjemmesider, Multimediedesign - Søren Andersen Design laver alt fra websit, brand image, viseult design. Multimediedesign studerende">
-
+    <meta name="author" content="Søren Andersen">
+    <meta name="copyright" content="© Søren Andersen, 2021">
+    <meta name="description" content="Søren Andersen Design - Skaber velfungerende website, der får dit website til tops på google ved hjælp af SEO. Kan hjælpe dit website med SEO, brand image, grafisk desgin, visuelt design">
+    <meta name="keywords" content="website, SEO, frontend, develop, grafisk design, visuelt design, brand image, html, css, javascript, portfolio, multimediedesigner">
+    <meta name="og:title" property="og:title" content="Søren Andersen Design - Website der bliver set - Brand image, website, SEO, grafisk desgin, visuelt design">
+    <meta name="og:description" property="og:description" content="Søren Andersen Design - Skaber velfungerende website, der får dit website til tops på google ved hjælp af SEO. Kan hjælpe dit website med SEO, brand image, grafisk desgin, visuelt design">
+    <meta name="og:type" property="og:type" content="website, SEO, frontend, develop, grafisk design, visuelt design, brand image, html, css, javascript, portfolio, multimediedesigner">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +18,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Metrophobic&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="icon" type="img/logo_icon">
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -26,10 +26,10 @@
 
 <main class="main d-flex justify-content-evenly py-5">
     <div class="main__text flex-md-column align-self-md-center text-white ps-2 pe-1">
-    <p class="text-xl-center main__text__header mb-4">Hej med dig</p>
+    <h1 class="text-xl-center main__text__header mb-4">Hej med dig</h1>
         <p class="text-xl-center main__text__body">Jeg hedder Søren og studere til Multimediedesign på Zealand.
             <br><br>
-            Front-end, SEO, brand image, grafisk design.
+            Front-end, website, SEO, brand image, grafisk design.
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
