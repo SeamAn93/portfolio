@@ -1,5 +1,4 @@
 <link href="css/styles.css" rel="stylesheet" type="text/css">
-
 <nav class="navbar navbar-expand-lg navbar-light py-2 py-md-4 px-sm-5" id="bg__header">
     <div class="container-fluid d-inline-flex">
         <a class="navbar-brand me-auto" href="index.php">
@@ -31,7 +30,7 @@
                         <span class="visually-hidden">Toggle Dropdown</span>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="hjemmeside.php">Hjemmeside</a></li>
+                        <li><a class="dropdown-item" href="website.php">Website</a></li>
                         <li><a class="dropdown-item" href="visueltdesign.php">Visuelt design</a></li>
                         <li><a class="dropdown-item" href="prototype.php">Prototype</a></li>
                         <li><a class="dropdown-item" href="styleguide.php">Styleguide</a></li>
@@ -48,5 +47,4 @@
         </div>
     </div>
 </nav>
-
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

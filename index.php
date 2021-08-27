@@ -52,7 +52,7 @@
                     <h5 class="card-title text-center mb-3">Website</h5>
                     <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="hjemmeside.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="website.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
