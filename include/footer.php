@@ -1,6 +1,6 @@
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 
-<footer class="footer__container d-lg-flex justify-content-evenly pb-3">
+<footer class="footer__container bg-black d-lg-flex justify-content-evenly pb-3">
     <div class="footer__contact text-center text-lg-start text-white mt-5">
         <h4 class="mb-3">Kontakt</h4>
         <a class="text-secondary" href="tel:24427892">+45 24 42 78 92</a>

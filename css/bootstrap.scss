@@ -4,9 +4,9 @@
 
 $custom-colors: (
         "primary": #0060F9,
-        "secondary": #6f6f6f,
-        "black": #000000,
-        "imgcard": #eeeeee
+        "secondary": #bfbfbf,
+        "black": #101010,
+        "imgcard": #eeeeee,
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 

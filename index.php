@@ -24,7 +24,7 @@
 
 <?php include 'include/header.php';?>
 
-<main class="main d-flex justify-content-evenly py-5">
+<main class="main d-flex bg-black justify-content-evenly py-5">
     <div class="main__text flex-md-column align-self-md-center text-white ps-2 pe-1">
     <h1 class="text-xl-center main__text__header mb-4">Hej med dig</h1>
         <p class="text-xl-center main__text__body">Jeg hedder Søren og studere til Multimediedesign på Zealand.

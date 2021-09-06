@@ -40,8 +40,7 @@ a{
 }
 
 .main{
-	background-color: black;
-	color: black;
+	max-height: 700px;
 }
 
 .main__text {
@@ -61,7 +60,6 @@ a{
 
 .main__image {
 	max-width: 170px;
-
 }
 
 .btn {
@@ -78,7 +76,7 @@ a{
 }
 
 a:hover{
-		color: #0060F9;
+	color: #0060F9;
 }
 
 .section__img {
@@ -115,12 +113,15 @@ a:hover{
 }
 
 .footer__container {
-	background-color: black;
 	border-top: solid 4px #0060F9;
 }
 
 .footer__nav__text {
 	font-size: medium;
+}
+
+.card {
+	width: 22rem !important;
 }
 
 @media only screen and (min-width: 768px) {
@@ -138,7 +139,7 @@ a:hover{
 	}
 
 	.card {
-		width: 20rem !important;
+		width: 24rem !important;
 	}
 
 	.section__img {
@@ -146,7 +147,7 @@ a:hover{
 	}
 
 	.card__img__size {
-		width: 318px;
+		width: auto;
 		height: 318px;
 		object-fit: contain;
 		display: block;
@@ -183,6 +184,6 @@ a:hover{
 @media only screen and (min-width: 1200px) {
 
 	.main__image{
-		max-width: 500px;
+		max-width: 400px;
 	}
 }
