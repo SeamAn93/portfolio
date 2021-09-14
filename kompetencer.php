@@ -42,7 +42,7 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size">
-                    <img src="img/moodboardmusikvideo.jpg" class="card-img-top" alt="moodboard til musikvideoprojekt">
+                    <img src="img/moodboardmusikvideo.jpg" class="card-img-top card__img__size" alt="moodboard til musikvideoprojekt">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Visuelt design</h5>
