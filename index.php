@@ -33,7 +33,7 @@
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
-            <a class="btn btn-primary btn-lg mt-4" href="kompetencer.php" role="button">Se her</a>
+            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="kompetencer.php" role="button">Se her</a>
         </div>
     </div>
     <div class="ps-1 pe-2 my-sm-auto">

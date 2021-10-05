@@ -37,6 +37,15 @@ img {
 
 a{
 	text-decoration: none;
+	color: #bfbfbf;
+}
+
+a:hover {
+	color: white;
+	transition: color 0.5s ease-in-out,
+				background-color 0.5s ease-in-out,
+				border-color 0.5s ease-in-out,
+				box-shadow 0.5s ease-in-out;
 }
 
 .main{
@@ -64,6 +73,29 @@ a{
 
 .btn {
 	color: white;
+	transition: color 0.5s ease-in-out,
+				background-color 0.5s ease-in-out,
+				border-color 0.5s ease-in-out,
+				box-shadow 0.5s ease-in-out;
+}
+
+@keyframes glowing {
+	0% {
+		background-color: #0060F9;
+		box-shadow: 0 0 5px #0060F9;
+	}
+	50% {
+		background-color: #384BFA;
+		box-shadow: 0 0 25px #384BFA;
+	}
+	100% {
+		background-color: #0060F9;
+		box-shadow: 0 0 5px #0060F9;
+	}
+}
+
+.btn__glow {
+	animation: glowing 1300ms infinite;
 }
 
 .card__img__size {
@@ -73,10 +105,6 @@ a{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-a:hover{
-	color: #0060F9;
 }
 
 .section__img {
