@@ -36,7 +36,7 @@
             <a class="btn btn-primary btn-lg mt-4 btn__glow" href="kompetencer.php" role="button">Se her</a>
         </div>
     </div>
-    <div class="ps-1 pe-2 my-sm-auto">
+    <div class="ps-1 pe-2 my-auto">
         <img class="main__image rounded" src="img/søren.jpg" alt="billede af Søren">
     </div>
 </main>

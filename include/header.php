@@ -1,5 +1,5 @@
 <link href="css/styles.css" rel="stylesheet" type="text/css">
-<nav class="navbar navbar-expand-lg navbar-light py-2 py-md-4 px-sm-5" id="bg__header">
+<nav class="navbar navbar-expand-lg navbar-light py-2 px-sm-5" id="bg__header">
     <div class="container-fluid d-inline-flex">
         <a class="navbar-brand me-auto" href="index.php">
             <img class="nav__logo" src="img/logo.svg" alt="Søren Andersen Design">
