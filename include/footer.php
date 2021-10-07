@@ -15,7 +15,7 @@
             <img class="footer__social__icon mx-2" src="img/005-linkedin-1.svg" alt="linkedin profil">
         </a>
         <a class="" href="https://github.com/SeamAn93">
-            <img class="footer__social__icon mx-2" src="img/002-github-1.svg" alt="?">
+            <img class="footer__social__icon mx-2" src="img/002-github-1.svg" alt="GitHub profil">
         </a>
         </div>
     </div>
