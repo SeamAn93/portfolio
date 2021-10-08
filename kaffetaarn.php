@@ -24,7 +24,7 @@
     <div class="container py-5">
         <div class="row justify-content-center">
             <h2 class="text-center mb-4">Kaffetår'N</h2>
-            <img class="" src="img/kaffetaarn.png" alt="">
+            <img class="project__header__img" src="img/kaffetaarn.png" alt="">
         </div>
     </div>
 </section>

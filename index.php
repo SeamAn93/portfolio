@@ -33,11 +33,11 @@
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
-            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="kompetencer.php" role="button">Se her</a>
+            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="musikdatabase.php" role="button">Se her</a>
         </div>
     </div>
     <div class="ps-1 pe-2 my-auto">
-        <img class="main__image rounded" src="img/søren.jpg" alt="billede af Søren">
+        <img class="main__image rounded" src="img/sørenprofil.jpg" alt="billede af Søren">
     </div>
 </main>
 
@@ -46,7 +46,7 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="#" class="card-img-top card__img__size" alt="billede af websitet Music Lookup">
+                <img src="img/musiclookupwebsit.png" class="card-img-top card__img__size" alt="billede af websitet Music Lookup">
                 </div>
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title text-center mb-3">Music Lookup</h5>

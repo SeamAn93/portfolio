@@ -3,7 +3,6 @@
 }
 
 body {
-	margin-top: 106px;
 	font-family: 'Poppins', sans-serif;
 }
 
@@ -70,13 +69,6 @@ a:hover {
 	background-image: linear-gradient(#B520FD, #384BFA);
 }
 
-.navbar {
-	position: fixed;
-	top: 0;
-	width: 100%;
-	z-index: 1;
-}
-
 .nav__logo {
 	min-height: 80px;
 }
@@ -132,6 +124,11 @@ a:hover {
 
 .img__contact__width {
 	max-width: 250px;
+}
+
+.project__header__img {
+	max-height: 600px;
+	width: auto;
 }
 
 .project__img__size {

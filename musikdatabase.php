@@ -24,7 +24,7 @@
     <div class="container py-5">
         <div class="row justify-content-center">
             <h2 class="text-center mb-4">Music lookup</h2>
-            <img class="" src="#" alt="billede af siden Music lookup">
+            <img class="project__header__img" src="img/musiclookupwebsit.png" alt="billede af siden Music lookup">
         </div>
     </div>
 </section>
@@ -52,13 +52,13 @@
     <div class="container py-5">
         <div class="flex-column d-flex flex-md-row justify-content-md-between gap-1 mb-4">
             <div class="d-inline-block mx-auto mb-4">
-                <a href="#" target="_blank">
-                    <img class="project__img__size" src="#" alt="">
+                <a href="img/muisclookupmockups.JPG" target="_blank">
+                    <img class="project__img__size" src="img/muisclookupmockups.JPG" alt="">
                 </a>
             </div>
             <div class="d-inline-block mx-auto mb-4">
-                <a href="#" target="_blank">
-                    <img class="project__img__size" src="#" alt="">
+                <a href="img/musiclookupdatabase.png" target="_blank">
+                    <img class="project__img__size" src="img/musiclookupdatabase.png" alt="">
                 </a>
             </div>
         </div>

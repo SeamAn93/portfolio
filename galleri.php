@@ -45,7 +45,7 @@
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
                     <a href="http://www.s-andersen.dk/christianbuono/" target="_blank">
-                        <img src="#" class="card-img-top card__img__size" alt="Websit til musikvideoen The Heart of the Stoics">
+                        <img src="img/musikvideowebsit.png" class="card-img-top card__img__size" alt="Websit til musikvideoen The Heart of the Stoics">
                     </a>
                 </div>
             </div>

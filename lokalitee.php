@@ -24,7 +24,7 @@
     <div class="container py-5">
         <div class="row justify-content-center">
             <h2 class="text-center mb-4">LOKALITEE</h2>
-            <img class="" src="img/lokalitee.png" alt="billede af websitet LOKALITEE">
+            <img class="project__header__img" src="img/lokalitee.png" alt="billede af websitet LOKALITEE">
         </div>
     </div>
 </section>
