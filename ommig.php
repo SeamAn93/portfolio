@@ -61,17 +61,21 @@
                     - Brugertest
                         <br>
                     - SEO
+                        <br>
+                    - Javascript
                     </h4>
                 </div>
                 <div class="ms-4">
                     <h4>
-                        - Booststrap
+                    - Booststrap
                         <br>
-                        - Visuelt design
+                    - Visuelt design
                         <br>
-                        - Brand image
+                    - Brand image
                         <br>
-                        - Prototype
+                    - Prototype
+                        <br>
+                    - php & API
                     </h4>
                 </div>
             </div>
