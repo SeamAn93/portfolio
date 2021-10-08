@@ -51,9 +51,9 @@
             <p class="hej mx-auto">
                 Jeg er god til at strukturere mine projekter, hjælpe andre og skabe et image helt fra bunden.
             </p>
-            <div class="d-flex justify-content-center pt-4">
+            <div class="d-md-flex justify-content-center pt-4">
                 <div class="me-4">
-                    <h4>
+                    <h5>
                     - html/css
                         <br>
                     - Projektstyring
@@ -63,10 +63,10 @@
                     - SEO
                         <br>
                     - Javascript
-                    </h4>
+                    </h5>
                 </div>
                 <div class="ms-4">
-                    <h4>
+                    <h5>
                     - Booststrap
                         <br>
                     - Visuelt design
@@ -76,10 +76,10 @@
                     - Prototype
                         <br>
                     - php & API
-                    </h4>
+                    </h5>
                 </div>
             </div>
-            <div class="d-grid gap-2 gap-md-5 col-6 mx-auto d-md-flex col-md-10 justify-content-md-center">
+            <div class="d-grid gap-2 gap-md-5 col-10 mx-auto d-md-flex justify-content-md-center">
                 <a href="pdf/CV2.pdf" target="_blank" class="btn btn-primary btn-lg mt-4 mt-md-5">Download CV</a>
                 <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 mt-md-5">Kontakt mig</a>
             </div>
