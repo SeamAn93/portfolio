@@ -20,9 +20,56 @@
 
 <?php include 'include/header.php';?>
 
+<section>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <h2 class="text-center mb-4">Kaffetår'N</h2>
+            <img class="" src="img/kaffetaarn.png" alt="">
+        </div>
+    </div>
+</section>
 
+<section class="bg-black">
+    <div class="container py-5">
+        <h2 class="text-white mb-3">Om projektet</h2>
+        <p class="text-white fs-6 pb-4">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar ultricies tellus a eleifend. Donec sollicitudin felis commodo varius scelerisque. Quisque ac lectus magna. Fusce sit amet eros nec diam ornare cursus. Vivamus ac ipsum dui. Praesent sed varius sem, tincidunt porta leo. Vestibulum eget nisl in purus fermentum bibendum vitae sit amet neque. Nulla porttitor tempus arcu, nec euismod nulla dignissim id. Aliquam elementum posuere sapien, quis maximus nisl dignissim ut. Vivamus ac augue id purus interdum fringilla at nec nunc.
+        </p>
+
+        <h2 class="text-white mb-3">Mine roller</h2>
+        <p class="text-white fs-6 pb-4">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar ultricies tellus a eleifend. Donec sollicitudin felis commodo varius scelerisque. Quisque ac lectus magna. Fusce sit amet eros nec diam ornare cursus. Vivamus ac ipsum dui. Praesent sed varius sem, tincidunt porta leo. Vestibulum eget nisl in purus fermentum bibendum vitae sit amet neque. Nulla porttitor tempus arcu, nec euismod nulla dignissim id. Aliquam elementum posuere sapien, quis maximus nisl dignissim ut. Vivamus ac augue id purus interdum fringilla at nec nunc.
+        </p>
+        <div class="d-grid gap-2 gap-md-5 col-6 mx-auto d-md-flex col-md-10 justify-content-md-center">
+            <a href="http://www.s-andersen.dk/Kaffetaarn/" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Website</a>
+            <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Kontakt</a>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container py-5">
+        <div class="flex-column d-flex flex-md-row justify-content-md-between">
+            <div class="d-inline-block mx-auto mb-4">
+            <img class="project__img__size" src="img/kaffetaarnstyleguide.png" alt="">
+            </div>
+            <div class="d-inline-block mx-auto mb-4">
+            <img class="project__img__size" src="img/kaffetaarnstyleguide.png" alt="">
+            </div>
+        </div>
+        <h2 class="mb-3">Udfordringer</h2>
+        <p class="fs-6 pb-4">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar ultricies tellus a eleifend. Donec sollicitudin felis commodo varius scelerisque. Quisque ac lectus magna. Fusce sit amet eros nec diam ornare cursus. Vivamus ac ipsum dui. Praesent sed varius sem, tincidunt porta leo. Vestibulum eget nisl in purus fermentum bibendum vitae sit amet neque. Nulla porttitor tempus arcu, nec euismod nulla dignissim id. Aliquam elementum posuere sapien, quis maximus nisl dignissim ut. Vivamus ac augue id purus interdum fringilla at nec nunc.
+        </p>
+        <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
+            <a href="#" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Forrig</a>
+            <a href="#" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Næste</a>
+        </div>
+    </div>
+</section>
 
 <?php include 'include/footer.php';?>
+
 
 </body>
 </html>
