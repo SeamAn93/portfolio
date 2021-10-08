@@ -17,25 +17,21 @@
                         <img src="img/002-github-1.svg" alt="GitHub profil" style="height: 32px; width: 32px;">
                     </a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav__link__text nav-link me-4" href="index.php">Forside</a>
+                <li class="nav-item me-2">
+                    <a class="nav__link__text nav-link" href="index.php">Forside</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav__link__text nav-link pe-1" href="kompetencer.php">Kompetencer</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav__link__text nav-link dropdown-toggle ps-0 me-4" href="kompetencer.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        <span class="visually-hidden">Toggle Dropdown</span>
+                <li class="nav-item dropdown me-2">
+                    <a class="nav__link__text nav-link dropdown-toggle" href="kompetencer.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Projekter
                     </a>
-                    <ul class="dropdown-menu rounded bg-black" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item text-white" href="website.php">Website</a></li>
-                        <li><a class="dropdown-item text-white" href="visueltdesign.php">Visuelt design</a></li>
-                        <li><a class="dropdown-item text-white" href="prototype.php">Prototype</a></li>
-                        <li><a class="dropdown-item text-white" href="styleguide.php">Styleguide</a></li>
-                        <li><a class="dropdown-item text-white" href="pdf/CV2.pdf" target="_blank">CV</a></li>
+                    <ul class="dropdown-menu rounded bg-black" aria-labelledby="navbarDropdownMenuLink">
+                        <li><a class="dropdown-item text-white" href="musikdatabase.php">Music Lookup</a></li>
+                        <li><a class="dropdown-item text-white" href="kaffetaarn.php">Kaffetår'N</a></li>
+                        <li><a class="dropdown-item text-white" href="lokalitee.php">LOKALITEE</a></li>
+                        <li><a class="dropdown-item text-white" href="galleri.php">Galleri</a></li>
                     </ul>
                 </li>
-                <li class="nav-item me-4">
+                <li class="nav-item me-2">
                     <a class="nav__link__text nav-link" href="ommig.php">Om mig</a>
                 </li>
                 <li class="nav-item">

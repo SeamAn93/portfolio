@@ -46,13 +46,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/navneflasken.png" class="card-img-top card__img__size" alt="billede af websit til KAFFETÅR'N">
+                <img src="#" class="card-img-top card__img__size" alt="billede af websitet Music Lookup">
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title text-center mb-3">Website</h5>
-                    <p class="card-text">Se hvilke hjemmesider jeg har været med til at lave. Der er alt fra en t-shirt shop til en launch side for en musikvideo. </p>
+                    <h5 class="card-title text-center mb-3">Music Lookup</h5>
+                    <p class="card-text">En øvelse i at kode med php, opsætte en databasen og lave en API.</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="website.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
@@ -61,13 +61,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/moodboardmusikvideo.jpg" class="card-img-top card__img__size" alt="moodboard til musikvideoprojekt">
+                <img src="img/kaffetaarn.png" class="card-img-top card__img__size" alt="billede af websitet Kaffetår'N">
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title text-center mb-3">Visuelt design</h5>
-                    <p class="card-text">Se hvad jeg kan, inden for visuelt design, hvor du finder en masse forskellig bl.a. logoer, tryk til t-shirt og meget mere.</p>
+                    <h5 class="card-title text-center mb-3">Kaffetår'N</h5>
+                    <p class="card-text">Branding af en ny cafe gemmen digitale platforme</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="visueltdesign.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="kaffetaarn.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
@@ -76,13 +76,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/muckupslokalitee.PNG" class="card-img-top card__img__size" alt="muckups til webshop LOKALITEE">
+                <img src="img/lokalitee.png" class="card-img-top card__img__size" alt="billede af websitet LOKALITEE">
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title text-center mb-3">Prototyper</h5>
-                    <p class="card-text">Se hvordan jeg bygger et website op fra bunden via wireframe og mockups.</p>
+                    <h5 class="card-title text-center mb-3">LOKALITEE</h5>
+                    <p class="card-text">Webshoppen der sælger t-shirt med tryk af din by</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="prototype.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="lokalitee.php" class="btn btn-primary btn-lg mt-4">Se her</a>
                     </div>
                 </div>
             </div>
