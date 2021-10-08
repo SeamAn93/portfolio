@@ -2,7 +2,7 @@
 <html lang="da">
 <head>
     <meta charset="utf-8">
-    <title>Kaffetår'n</title>
+    <title>Projekter - Kaffetår'n</title>
     <meta name="robots" content="All">
     <meta <meta name="author" content="Søren Andersen">
     <meta name="copyright" content="© Søren Andersen, 2021">
@@ -31,39 +31,58 @@
 
 <section class="bg-black">
     <div class="container py-5">
-        <h2 class="text-white mb-3">Om projektet</h2>
-        <p class="text-white fs-6 pb-4">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar ultricies tellus a eleifend. Donec sollicitudin felis commodo varius scelerisque. Quisque ac lectus magna. Fusce sit amet eros nec diam ornare cursus. Vivamus ac ipsum dui. Praesent sed varius sem, tincidunt porta leo. Vestibulum eget nisl in purus fermentum bibendum vitae sit amet neque. Nulla porttitor tempus arcu, nec euismod nulla dignissim id. Aliquam elementum posuere sapien, quis maximus nisl dignissim ut. Vivamus ac augue id purus interdum fringilla at nec nunc.
+        <h2 class="text-white mb-3">Cafeen i vandtårnet</h2>
+        <p class="text-white fs-6 pb-5">
+            Projektet her var en del af eksamen på 2 semester, og var med en rigtig kunde.
+            Cafeen var forholdsvis ny, og havde bruge for at få fastsat dens brande, samt at folk blev bevidst om at cafeen var i byen.
+            <br><br>
+            Samtidig var det vigtig, at det udtryk fra cafeen blev en del af dens identitet på digitale medier
+            og at stemningen af cafeen kom til udtryk på de sociale medier som fx Facebook og Instagram, lige fra farver og stil, til stemningen på billeder og videoer.
         </p>
 
-        <h2 class="text-white mb-3">Mine roller</h2>
+        <h2 class="text-white mb-3">Front-end developer, Art director, UX/UI-designer, SEO-specialist</h2>
         <p class="text-white fs-6 pb-4">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar ultricies tellus a eleifend. Donec sollicitudin felis commodo varius scelerisque. Quisque ac lectus magna. Fusce sit amet eros nec diam ornare cursus. Vivamus ac ipsum dui. Praesent sed varius sem, tincidunt porta leo. Vestibulum eget nisl in purus fermentum bibendum vitae sit amet neque. Nulla porttitor tempus arcu, nec euismod nulla dignissim id. Aliquam elementum posuere sapien, quis maximus nisl dignissim ut. Vivamus ac augue id purus interdum fringilla at nec nunc.
+            Jeg var med til at skabe det visuelle image for cafeen, da jeg stod for at lave en styleguide for cafeen, og var med til at lave prototyperne til designet af websitet.
+            <br><br>
+            Stod også for at kode websitet fra bunden af, samt at planlægge og undersøge, hvordan vi kunne optimere SEO, på websitet.
         </p>
-        <div class="d-grid gap-2 gap-md-5 col-6 mx-auto d-md-flex col-md-10 justify-content-md-center">
-            <a href="http://www.s-andersen.dk/Kaffetaarn/" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Website</a>
-            <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Kontakt</a>
+        <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
+            <a href="http://www.s-andersen.dk/Kaffetaarn/" target="_blank" class="btn btn-primary btn-lg mt-3 px-5">Website</a>
+            <a href="kontakt.php" class="btn btn-primary btn-lg mt-3 px-5">Kontakt</a>
         </div>
     </div>
 </section>
 
 <section>
     <div class="container py-5">
-        <div class="flex-column d-flex flex-md-row justify-content-md-between">
+        <div class="flex-column d-flex flex-md-row justify-content-md-between gap-1 mb-4">
             <div class="d-inline-block mx-auto mb-4">
-            <img class="project__img__size" src="img/kaffetaarnstyleguide.png" alt="">
+                <a href="img/om-oskaffetaarn.png" target="_blank">
+                    <img class="project__img__size" src="img/om-oskaffetaarn.png" alt="wireframe af om os side">
+                </a>
             </div>
             <div class="d-inline-block mx-auto mb-4">
-            <img class="project__img__size" src="img/kaffetaarnstyleguide.png" alt="">
+                <a href="pdf/Styleguide%20Kaffetår'n.pdf" target="_blank">
+                    <img class="project__img__size" src="img/kaffetaarnstyleguide.png" alt="">
+                </a>
             </div>
         </div>
-        <h2 class="mb-3">Udfordringer</h2>
+        <h2 class="mb-3">Øget kendskab på de sociale medier</h2>
         <p class="fs-6 pb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar ultricies tellus a eleifend. Donec sollicitudin felis commodo varius scelerisque. Quisque ac lectus magna. Fusce sit amet eros nec diam ornare cursus. Vivamus ac ipsum dui. Praesent sed varius sem, tincidunt porta leo. Vestibulum eget nisl in purus fermentum bibendum vitae sit amet neque. Nulla porttitor tempus arcu, nec euismod nulla dignissim id. Aliquam elementum posuere sapien, quis maximus nisl dignissim ut. Vivamus ac augue id purus interdum fringilla at nec nunc.
+            Det vigtig her var at først finde ud af, hvilken målgruppe cafe henvendte sig til. Det gjorde vi gennem et spørgeskema, for at finde ud af gennem en række spørgsmål, hvem cafe livet tiltalte.
+            <br><br>
+            Derefter definerede vi to målgrupper og testet et moodboard med stemningen af cafeen via interviews, for at finde frem til stilen, vi skulle design ud fra.
+            <br><br>
+            Det var også ud fra spørgeskemaet og de valgte målgrupper, defineret vi de sociale medier, vi ville promovere cafeen, og lavede en SoMe strategi,
+            med retningslinje for eksempel tone of voice, format og kvalitet af videoer og billeder, tidsrum for opslag mm. samt en content plan, af forløbet for promoveringen.
+            <br><br>
+            Med hjælp af moodboardet, redesignet vi bl.a. logo, skilte, ikoner mm. og brugte det, som et springbræt til at designe et website til cafeen,
+            hvor vi startede med prototyper og derefter kodet siden helt fra bunden med bl.a med bootstrap og sass, for at gøre sine responsiv,
+            samt SEO optimeret den med fx meta tag i html og et integreret google map, på “Find vej” siden, så cafe kunne nå til tops på google.
         </p>
         <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
-            <a href="#" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Forrig</a>
-            <a href="#" class="btn btn-primary btn-lg mt-4 mt-md-5 px-5">Næste</a>
+            <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-3 px-5">Forrig</a>
+            <a href="lokalitee.php" class="btn btn-primary btn-lg mt-3 px-5">Næste</a>
         </div>
     </div>
 </section>
