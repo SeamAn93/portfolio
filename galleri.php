@@ -20,7 +20,94 @@
 
 <?php include 'include/header.php';?>
 
+<main class="container mb-5">
+    <h2 class="text-center py-5">Galleri</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/moodboardmusikvideo.jpg" target="_blank">
+                        <img src="img/moodboardmusikvideo.jpg" class="card-img-top card__img__size" alt="moodboard til musikvideoen The Heart of the Stoics">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="pdf/Styleguide%20musikvideo.pdf" target="_blank">
+                        <img src="img/musikstyleguide.png" class="card-img-top card__img__size" alt="styleguide for musikkeren Christian Buono">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="http://www.s-andersen.dk/christianbuono/" target="_blank">
+                        <img src="#" class="card-img-top card__img__size" alt="Websit til musikvideoen The Heart of the Stoics">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/ujmlions.png" target="_blank">
+                        <img src="img/ujmlions.png" class="card-img-top card__img__size" alt="User Journey Map for Lions Nykøbing F før redesign">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="pdf/Styleguide%20Lions.pdf" target="_blank">
+                        <img src="img/lionsstyleguide.png" class="card-img-top card__img__size" alt="styleguide for Lions Nykøbing F">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="http://www.s-andersen.dk/master/" target="_blank">
+                        <img src="img/lions.png" class="card-img-top card__img__size" alt="websit for Lions Nykøbing F">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/muckupnavneflasken.png" target="_blank">
+                        <img src="img/muckupnavneflasken.png" class="card-img-top card__img__size" alt="mockups af betalingsside på Navneflasken">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/tid.png" target="_blank">
+                        <img src="img/tid.png" class="card-img-top card__img__size" alt="en collage om emner tid og barndom">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/codeklogprocess.png" target="_blank">
+                        <img src="img/codeklogprocess.png" class="card-img-top card__img__size" alt="design af logo til en klub">
+                    </a>
+                </div>
+            </div>
+        </div>
 
+
+    </div>
+</main>
 
 <?php include 'include/footer.php';?>
 
