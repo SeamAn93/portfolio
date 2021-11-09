@@ -26,10 +26,13 @@
 
 <main class="main d-flex bg-black justify-content-evenly py-5">
     <div class="main__text flex-md-column align-self-md-center text-white ps-2 pe-1">
-    <h1 class="text-xl-center main__text__header mb-4">Hej med dig</h1>
-        <p class="text-xl-center main__text__body">Jeg hedder Søren og studere til Multimediedesign på Zealand.
-            <br><br>
-            Front-end, website, SEO, brand image, grafisk design.
+    <h1 class="text-xl-center main__text__header mb-4">
+            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "SEO", "Brand image","Website", "Grafisk design" ]'>
+                <span class="wrap"></span>
+            </div>
+        </h1>
+        <p class="text-xl-center main__text__body">
+            Jeg hedder Søren og studere til Multimediedesign på Zealand.
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
@@ -92,5 +95,6 @@
 
 <?php include 'include/footer.php';?>
 
+<script src="js/texttyper.js"></script>
 </body>
 </html>
