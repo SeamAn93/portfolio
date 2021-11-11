@@ -27,7 +27,7 @@
 <main class="main d-flex bg-black justify-content-evenly py-5">
     <div class="main__text flex-md-column align-self-md-center text-white ps-2 pe-1">
     <h1 class="text-xl-center main__text__header mb-4">
-            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "SEO", "Brand image","Website", "Grafisk design" ]'>
+            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "SEO", "Brand image", "Webdesign", "Grafisk design", "Javascript"]'>
                 <span class="wrap"></span>
             </div>
         </h1>
