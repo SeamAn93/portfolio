@@ -33,13 +33,13 @@
     <div class="container py-5">
         <h2 class="text-white mb-3">T-shirt med tryk af din by</h2>
         <p class="text-white fs-6 pb-5">
-            Opgaven bestod i, at lave en webshop, som skulle sælge t-shirt med tryk. Trykket skulle selv designes og selv forretningen skulle sætte op fra bunden, med et koncept og et brand.
+            Opgaven bestod i, at lave en webshop, der skulle sælge t-shirt med tryk. Trykket skulle vi selv designe og selve forretningen skulle sættes op fra bunden, med et koncept og et brand.
             <br><br>
-            Det blev til webshop LOKALITEE, som solgte t-shirt med tryk af forskellige byers våbenskjold eller et tryk, med et unikt design, da gjorde brug af byens kendetegn som fx byggerne, statuer, historie mm.
+            Det blev til webshoppen LOKALITEE, som sælger t-shirt med to forskellige design, hvor det ene er af byens våbenskjold, mens det andet blev et unikt design af en bys kendetegn som fx byggerne, statuer, historie mm.
         </p>
         <h2 class="text-white mb-3">Art director, front-end developer og projektleder</h2>
         <p class="text-white fs-6 pb-4">
-            I selve konceptfasen, var jeg med til at komme op med forslag selve brand image, og var ansvarlig for at lave wireframes og mockups.
+            I selve konceptfasen, var jeg med til at komme op med forslag selve brand image, og var ansvarlig for at lave prototyper som wireframes og mockups.
             <br><br>
             Jeg var front-end developer for wordpress siden, hvor jeg også stod for at lave SEO og implementere det på siden.
             <br><br>
@@ -68,17 +68,17 @@
         </div>
         <h2 class="mb-3">En forretning fra bunden af</h2>
         <p class="fs-6 pb-4">
-            Her startede processen med at brainstorm ideer til konceptet, og der af hvad trykket på t-shirtene skulle være. Her faldt valget på t-shirts med lokale kendetegn, efter en længere brainstorm, hvor alt lige fra træningsøvelser til miljøbevidsthed var op og vende.
+            Her startede processen med at brainstorm ideer til konceptet, og hvilke tryk vores t-shirt skulle have. Her blev valget til t-shirts med lokale kendetegn, efter en længere brainstorm, hvor alt lige fra træningsøvelser til miljøbevidsthed var oppe og vende.
             <br><br>
-            Derefter defineret vi målgrupperne, som konceptet skulle henvende sig til og test moodboard med farver, fonts, grafiske elementer samt logo, for at test om designet fangede og talte målgrupperne, samt navn og logo for webshoppen, gav mening for dem.
+            Derefter defineret vi målgrupperne, som konceptet skulle henvende sig til og testet et moodboard med farver, fonts, grafiske elementer, navn og logo, for at teste om designet fangede og talte til målgrupperne.
             <br><br>
-            Efter at have fastsat koncept, målgrupperne og de grundlæggende design linjer, startede processen med designe trykkene, hvor vi endte med to koncepteter, hvpr det ene var våbenskjoldet for den enkelte by og det andet var et billede af de tre mest kendte kendetegn fra byen, udført i en streg.
+            Efter at have fastsat koncept, målgrupperne og de grundlæggende design linjer, startede processen med at designe trykkene, hvor vi endte med de to koncepteter, som blev et våbenskjoldet for den enkelte by og et billede af de tre mest kendte kendetegn fra en by, udført i en streg.
             <br><br>
-            Prototyperne for selv websitet, blev lavet ud fra et valgt tema i wordpress, da wordpress begrænsede os i at lave et helt unikt webdesign fra bunden af.
-            Så efter lidt test af forskellige temaer, udvalgte vi et og designet det ud fra dette.
+            Prototyperne for selv websitet blev lavet ud fra et valgt tema i wordpress, da wordpress begrænsede os i at lave et helt unikt webdesign fra bunden af.
+            Så efter lidt test af forskellige temaer, udvalgte vi et og designet ud fra dette.
             Til selve webshoppen bruges der to plugins, Woocommerce og Yoast, til at håndtere handels delen og hjælpe med SEO.
             <br><br>
-            Hele projektet blev styret med det agile projekt styringsform SCRUM, og blev registeret i projektstyring programmet Trello.
+            Hele projektet blev styret med den agile projekt styringsform SCRUM, og blev registeret i projektstyring programmet Trello.
         </p>
         <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center flex-row-reverse">
             <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center">Næste<img src="img/rightarrows.png" alt="pil til højre næste" class="btn__icon__size ms-2 my-auto"></a>

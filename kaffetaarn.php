@@ -33,18 +33,18 @@
     <div class="container py-5">
         <h2 class="text-white mb-3">Cafeen i vandtårnet</h2>
         <p class="text-white fs-6 pb-5">
-            Projektet her var en del af eksamen på 2 semester, og var med en rigtig kunde.
-            Cafeen var forholdsvis ny, og havde bruge for at få fastsat dens brande, samt at folk blev bevidst om at cafeen var i byen.
+            Projektet her, var en del af eksamensopgaven på 2 semester, med en kunde fra Nykøbing F.
+            Cafeen var forholdsvis ny, og havde bruge for at få fastsat sit brande, og at folk i byen hørte om cafeen.
             <br><br>
-            Samtidig var det vigtig, at det udtryk fra cafeen blev en del af dens identitet på digitale medier
-            og at stemningen af cafeen kom til udtryk på de sociale medier som fx Facebook og Instagram, lige fra farver og stil, til stemningen på billeder og videoer.
+            Samtidig var det vigtig, at cafeens udtryk blev en del af dens identitet på digitale medier,
+            og at atmosfæren fra cafeen kom til udtryk på de sociale medier, som fx Facebook og Instagram, lige fra farver og stil, til stemningen på billeder og videoer.
         </p>
 
         <h2 class="text-white mb-3">Front-end developer, Art director, UX/UI-designer, SEO-specialist</h2>
         <p class="text-white fs-6 pb-4">
-            Jeg var med til at skabe det visuelle image for cafeen, da jeg stod for at lave en styleguide for cafeen, og var med til at lave prototyperne til designet af websitet.
+            Jeg var med til at skabe det visuelle image for cafeen, da jeg stod for at lave en styleguide til cafeen, og designet af prototyperne til websitet.
             <br><br>
-            Stod også for at kode websitet fra bunden af, samt at planlægge og undersøge, hvordan vi kunne optimere SEO, på websitet.
+            Derudover var jeg med til at kode websitet fra bunden af, samt planlægge og undersøge, hvordan vi kunne SEO optimere websitet.
         </p>
         <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
             <a href="http://www.s-andersen.dk/Kaffetaarn/" target="_blank" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/homeiconsilhouette.png" alt="hus icon" class="btn__icon__size me-2 my-auto">Website</a>
@@ -69,16 +69,16 @@
         </div>
         <h2 class="mb-3">Øget kendskab på de sociale medier</h2>
         <p class="fs-6 pb-4">
-            Det vigtig her var at først finde ud af, hvilken målgruppe cafe henvendte sig til. Det gjorde vi gennem et spørgeskema, for at finde ud af gennem en række spørgsmål, hvem cafe livet tiltalte.
+            Det vigtig her var at finde ud af, hvilken målgruppe cafe henvendte sig til. Det gjorde vi igennem et spørgeskema, for at finde ud, hvem der interesseret sig for cafe livet.
             <br><br>
-            Derefter definerede vi to målgrupper og testet et moodboard med stemningen af cafeen via interviews, for at finde frem til stilen, vi skulle design ud fra.
+            Derefter definerede vi to målgrupper og testet et moodboard med atomsfæren fra cafeen via interviews, for at finde frem til stilen, vi skulle design ud fra.
             <br><br>
-            Det var også ud fra spørgeskemaet og de valgte målgrupper, defineret vi de sociale medier, vi ville promovere cafeen, og lavede en SoMe strategi,
-            med retningslinje for eksempel tone of voice, format og kvalitet af videoer og billeder, tidsrum for opslag mm. samt en content plan, af forløbet for promoveringen.
+            Det var også ud fra spørgeskemaet vi fandt fra til de sociale medier, vi ville promovere cafeen på, samt planlægge SoMe strategi
+            med retningslinje som for eksempel tone of voice, format og kvalitet af videoer og billeder, tidsrum for opslag mm. samt en content plan af forløbet.
             <br><br>
-            Med hjælp af moodboardet, redesignet vi bl.a. logo, skilte, ikoner mm. og brugte det, som et springbræt til at designe et website til cafeen,
-            hvor vi startede med prototyper og derefter kodet siden helt fra bunden med bl.a med bootstrap og sass, for at gøre sine responsiv,
-            samt SEO optimeret den med fx meta tag i html og et integreret google map, på “Find vej” siden, så cafe kunne nå til tops på google.
+            Med hjælp af moodboardet, redesignet vi bl.a. logo, skilte, ikoner mm. og brugte det som et springbræt til at designe et website til cafeen,
+            hvor vi startede med prototyper og derefter kodet siden helt fra bunden med bl.a med bootstrap og sass, for at gøre siden responsiv.
+            Herefter SEO optimeret vi siden fx med meta tags i html og et integreret google map, på “Find vej” siden, så cafe kunne nå til tops på google.
         </p>
         <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center flex-row-reverse">
             <a href="lokalitee.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center">Næste<img src="img/rightarrows.png" alt="pil til højre næste" class="btn__icon__size ms-2 my-auto"></a>
