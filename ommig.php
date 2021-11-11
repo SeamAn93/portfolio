@@ -46,46 +46,46 @@
 
 <section class="flex-column bg-white">
     <div class="container d-xl-flex gap-xl-5">
-        <div class="section__flex">
+        <div class="section__flex mb-xl-5">
             <h2 class="text-center mb-4 pt-5">Hvad kan jeg?</h2>
             <p class="hej mx-auto">
                 Jeg er god til at strukturere mine projekter, hjælpe andre og skabe et image helt fra bunden.
             </p>
-            <div class="d-md-flex justify-content-center pt-4">
-                <div class="me-4">
-                    <h5>
-                    - html/css
+            <div class="row text-center text-md-start pt-4">
+                <div class="col-12 col-md-6">
+                    <h4 class="d-flex justify-content-center justify-content-md-end text__height">
+                    html/css
                         <br>
-                    - Projektstyring
+                    Projektstyring
                         <br>
-                    - Brugertest
+                    Brugertest
                         <br>
-                    - SEO
+                    SEO
                         <br>
-                    - Javascript
-                    </h5>
+                    Javascript
+                    </h4>
                 </div>
-                <div class="ms-4">
-                    <h5>
-                    - Booststrap
+                <div class="col-12 col-md-6">
+                    <h4 class="d-flex justify-content-center justify-content-md-start text__height">
+                    Booststrap
                         <br>
-                    - Visuelt design
+                    Visuelt design
                         <br>
-                    - Brand image
+                    Brand image
                         <br>
-                    - Prototype
+                    Prototype
                         <br>
-                    - php & API
-                    </h5>
+                    php & API
+                    </h4>
                 </div>
             </div>
             <div class="d-grid gap-2 gap-md-5 col-10 mx-auto d-md-flex justify-content-md-center">
-                <a href="pdf/CV2.pdf" target="_blank" class="btn btn-primary btn-lg mt-4 mt-md-5">Download CV</a>
-                <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 mt-md-5">Kontakt mig</a>
+                <a href="pdf/CV2.pdf" target="_blank" class="btn btn-primary btn-lg mt-4 d-flex justify-content-center btn__size"><img src="img/cvicon.png" alt="papir ikon" class="btn__icon__size me-2 my-auto">CV</a>
+                <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 d-flex justify-content-center btn__size"><img src="img/contactphone.png" alt="telefon kontakt icon" class="btn__icon__size me-2 my-auto">Kontakt</a>
             </div>
         </div>
 
-        <div class="section__flex">
+        <div class="section__flex mt-4 mt-xl-0">
             <h2 class="text-center mb-4 pt-5">Hvorfor lige multimediefaget?</h2>
             <p class="pb-5 mx-auto hej">
                 Jeg har altid haft det sjovt med at kreere, lige fra at bygge med Lego da jeg var lille, til at skrive musik da jeg var trommeleder, eller skabe en cool karakter i et spil.

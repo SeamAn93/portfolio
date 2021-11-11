@@ -54,6 +54,7 @@ a:hover {
 
 .btn {
 	color: white;
+	font-weight: 500;
 	transition: color 0.5s ease-in-out,
 	background-color 0.5s ease-in-out,
 	border-color 0.5s ease-in-out,
@@ -62,6 +63,15 @@ a:hover {
 
 .btn__glow {
 	animation: glowing 2500ms infinite;
+}
+
+.btn__size {
+	min-width: 150px;
+}
+
+.btn__icon__size {
+	height: 30px;
+	width: 30px;
 }
 
 #bg__header {
@@ -137,6 +147,10 @@ a:hover {
 
 .section__flex {
 	flex: 1 1 0px;
+}
+
+.text__height {
+	line-height: 1.8;
 }
 
 .footer__social__icon {

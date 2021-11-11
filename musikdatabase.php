@@ -42,8 +42,8 @@
             I forløbet, var jeg med til at lave prototyper for designet af siderne, samt være med til at kode dele af websitet, både front- og backend, hvor backend delen bestod af php, javascript og opsætningen af databasen i phpMyAdmin.
         </p>
         <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
-            <a href="http://www.s-andersen.dk/musikPhp/index.php" target="_blank" class="btn btn-primary btn-lg mt-3 px-5">Website</a>
-            <a href="kontakt.php" class="btn btn-primary btn-lg mt-3 px-5">Kontakt</a>
+            <a href="http://www.s-andersen.dk/musikPhp/index.php" target="_blank" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/homeiconsilhouette.png" alt="hus icon" class="btn__icon__size me-2 my-auto">Website</a>
+            <a href="kontakt.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/contactphone.png" alt="telefon icon" class="btn__icon__size me-2 my-auto">Kontakt</a>
         </div>
     </div>
 </section>
@@ -80,9 +80,9 @@
             Når man vil redigere kommer der den sammen form op, som på inset side, bare hvor de allerede indtastede informationer står og som man så kan redigere i.
             Disse ville dog ikke normalt være tilgængelige for brugeren, men er det i dette tilfælde, for visse hele projektet.
         </p>
-        <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
-            <a href="lokalitee.php" class="btn btn-primary btn-lg mt-3 px-5">Forrig</a>
-            <a href="kaffetaarn.php" class="btn btn-primary btn-lg mt-3 px-5">Næste</a>
+        <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center flex-row-reverse">
+            <a href="kaffetaarn.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center">Næste<img src="img/rightarrows.png" alt="pil til højre næste" class="btn__icon__size ms-2 my-auto"></a>
+            <a href="lokalitee.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/leftarrow.png" alt="pil til venstre forrig" class="btn__icon__size me-2 my-auto">Forrige</a>
         </div>
     </div>
 </section>

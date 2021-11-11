@@ -55,7 +55,7 @@
                     <h5 class="card-title text-center mb-3">Music Lookup</h5>
                     <p class="card-text">En øvelse i at kode med php, opsætte en databasen og lave en API.</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                     <h5 class="card-title text-center mb-3">Kaffetår'N</h5>
                     <p class="card-text">Branding af en ny cafe gemmen digitale platforme</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="kaffetaarn.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="kaffetaarn.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                     <h5 class="card-title text-center mb-3">LOKALITEE</h5>
                     <p class="card-text">Webshoppen der sælger t-shirt med tryk af din by</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="lokalitee.php" class="btn btn-primary btn-lg mt-4">Se her</a>
+                    <a href="lokalitee.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>

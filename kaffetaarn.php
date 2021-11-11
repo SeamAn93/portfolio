@@ -47,8 +47,8 @@
             Stod også for at kode websitet fra bunden af, samt at planlægge og undersøge, hvordan vi kunne optimere SEO, på websitet.
         </p>
         <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
-            <a href="http://www.s-andersen.dk/Kaffetaarn/" target="_blank" class="btn btn-primary btn-lg mt-3 px-5">Website</a>
-            <a href="kontakt.php" class="btn btn-primary btn-lg mt-3 px-5">Kontakt</a>
+            <a href="http://www.s-andersen.dk/Kaffetaarn/" target="_blank" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/homeiconsilhouette.png" alt="hus icon" class="btn__icon__size me-2 my-auto">Website</a>
+            <a href="kontakt.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/contactphone.png" alt="telefon icon" class="btn__icon__size me-2 my-auto">Kontakt</a>
         </div>
     </div>
 </section>
@@ -80,9 +80,9 @@
             hvor vi startede med prototyper og derefter kodet siden helt fra bunden med bl.a med bootstrap og sass, for at gøre sine responsiv,
             samt SEO optimeret den med fx meta tag i html og et integreret google map, på “Find vej” siden, så cafe kunne nå til tops på google.
         </p>
-        <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center">
-            <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-3 px-5">Forrig</a>
-            <a href="lokalitee.php" class="btn btn-primary btn-lg mt-3 px-5">Næste</a>
+        <div class="d-grid gap-2 gap-md-5 col-8 mx-auto d-md-flex justify-content-md-center flex-row-reverse">
+            <a href="lokalitee.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center">Næste<img src="img/rightarrows.png" alt="pil til højre næste" class="btn__icon__size ms-2 my-auto"></a>
+            <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-3 px-5 d-flex justify-content-center"><img src="img/leftarrow.png" alt="pil til venstre forrig" class="btn__icon__size me-2 my-auto">Forrige</a>
         </div>
     </div>
 </section>
