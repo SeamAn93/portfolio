@@ -1,10 +1,6 @@
 ErrorDocument 404 /fejl.php
 
-RewriteEngine on
-# does not apply to existing directories, meaning that if the folder exists on the server,
-# then don't change anything and don't run the Rule!
+RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
-# checking for the file in directory with .php
-RewriteCond %{REQUEST_FILENAME}\.php -f
-# Show the page that has the .php
-RewriteRule ^(.*)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
