@@ -28,17 +28,17 @@
     <div class="align-self-center section__flex">
         <h2 class="text-center text-white mb-4 ">Hvem er jeg?</h2>
         <p class="text-white pb-5 pb-xl-0 hej mx-auto">
-            Jeg hedder Søren Andersen og kommer fra det flade Lolland nær Sakskøbing.
+            Jeg hedder Søren og kommer fra Sydhavsøerne, hvor jeg bor i hovedstaden Nykøbing F.
             <br>
-            Som person er en stille og rolig, men altid glad og i godt humør, er ikke bleg for at lave lidt spas, for at få et godt grin.
+            Som person er jeg stille og rolig, altid i godt humør, og ikke bleg for at lave lidt spas, for at få et godt grin.
             <br><br>
-            I min fritid bruger jeg tiden på at spille musik, hvilket jeg har gjort i omkring 20 år I forskellig musikkorps, hvor jeg bl.a. har undervist og været trommeleder.
+            Min fritid bruger jeg på lidt af hvert. Jeg spiller tromme, hvilket jeg har gjort i 25 år, hvor jeg både har undervist, været musisk leder, og skrevet musik i musikkorps.
             <br><br>
-            Så kan jeg godt li at fiske, som er et dejligt afbræk fra hverdagen foran computeren.
+            Derudover kan jeg godt lide at komme lidt ud i det blå, hvor jeg bruger min tid på at fiske forskellige steder, eller gå ture i skoven eller ved vandet.
             <br>
-            Dog er man da stadig lidt nørd, så et par timer med et godt computerspil er også et godt pusterum.
+            Og ja, man er vel lidt en nørd, så en våd dag foran pc’en, med et computerspil er også et godt pusterum.
             <br><br>
-            Ellers sætter jeg pris på at bruge tiden sammen med nær venner og familie, hvor jeg ikke er bleg for at give en hjælpende hånd, hvis det skal til.
+            Ellers sætter jeg pris på at bruge tiden sammen med nære venner og familie, hvor jeg ikke er bleg for at give en hjælpende hånd, hvis det skal til.
         </p>
     </div>
     </div>
@@ -56,13 +56,15 @@
                     <h4 class="d-flex justify-content-center justify-content-md-end text__height">
                     html/css
                         <br>
-                    Projektstyring
+                    Webudvikling
                         <br>
                     Brugertest
                         <br>
                     SEO
                         <br>
                     Javascript
+                        <br>
+                    Grafisk design
                     </h4>
                 </div>
                 <div class="col-12 col-md-6">
@@ -71,11 +73,13 @@
                         <br>
                     Visuelt design
                         <br>
-                    Brand image
+                    Webdesign
                         <br>
                     Prototype
                         <br>
-                    php & API
+                    PHP & MySQL
+                        <br>
+                    Front- & back-end
                     </h4>
                 </div>
             </div>
@@ -90,13 +94,15 @@
             <p class="pb-5 mx-auto hej">
                 Jeg har altid haft det sjovt med at kreere, lige fra at bygge med Lego da jeg var lille, til at skrive musik da jeg var trommeleder, eller skabe en cool karakter i et spil.
                 <br>
-                Så efter et par i detailbranchen og havde et par andre uddannelser, tog jeg chance og sprang ud i at prøve multimediefaget. Og det har jeg ikke fortrudt et sekund.
+                Så efter et par år, hvor jeg arbejdede i forskellige jobs og fik prøvet et par andre uddannelser, fandt jeg multimedieuddannelse og tænkte, “det da lige mig!”. Og det har jeg ikke fortrudt et sekund.
                 <br><br>
-                Jeg elsker mit studie, specielt UI- og programmeringsdelen, hvor man kan være med til at skabe og kreere.
-                <br>
-                Lige fra at finde ud af, hvordan en side skal bygges op via wireframes, til en prototype med et mockup og til den færdig side, som man kan kode i html/css.
+                Det var det helt perfekte for mig, specielt front-end indenfor webdesign og webudvikler, hvor man kan være med til at skabe og kreere, lige fra idegenerering, til at skabe prototyper, som man herefter bygger op med kode, og man er med til at lave noget praktisk.
                 <br><br>
-                Jeg kan godt li´ den sparring og dynamik der er forbundet med at arbejde i et team, men kan også sagtens fordybe mig i et projekt alene.
+                Derfor endte jeg også med at tage kode sporet på uddannelse, hvor jeg fik indblik i back-end udvikling og virkelig nyd at nørde med kode, selvom det blev til et par ekstra grå hår på hovedet.
+                <br><br>
+                Men selvom webudvikling og webdesign er toppen af poppen, så synes jeg stadig det er sjovt at lave andre ting inden for multimediedesign, som grafiske materialer til print, usability tests i forhold til website eller en lille reklamevideo.
+                <br><br>
+                Og selvom det første rigtige job stadig lader vente på sig, så er min passion, gåpåmod og interesse for branchen stadig høj.
             </p>
         </div>
     </div>

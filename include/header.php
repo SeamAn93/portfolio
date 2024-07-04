@@ -25,10 +25,10 @@
                         Projekter
                     </a>
                     <ul class="dropdown-menu rounded bg-black" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item text-white" href="musikdatabase.php">Music Lookup</a></li>
-                        <li><a class="dropdown-item text-white" href="kaffetaarn.php">Kaffetår'N</a></li>
-                        <li><a class="dropdown-item text-white" href="lokalitee.php">LOKALITEE</a></li>
-                        <li><a class="dropdown-item text-white" href="galleri.php">Galleri</a></li>
+                        <li><a class="dropdown-item text-white" href="funkesmultiservice.php">Funkes Multiservice</a></li>
+                        <li><a class="dropdown-item text-white" href="falkfysioterapi.php">Falk Fysioterapi</a></li>
+                        <li><a class="dropdown-item text-white" href="eatit.php">Eatit</a></li>
+                        <!-- <li><a class="dropdown-item text-white" href="galleri.php">Galleri</a></li> -->
                     </ul>
                 </li>
                 <li class="nav-item me-2">

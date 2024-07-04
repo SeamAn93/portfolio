@@ -27,16 +27,16 @@
 <main class="main d-flex bg-black justify-content-evenly py-5">
     <div class="main__text flex-md-column align-self-md-center text-white ps-2 pe-1">
     <h1 class="text-xl-center main__text__header mb-4">
-            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "SEO", "Brand image", "Webdesign", "Grafisk design", "Javascript"]'>
+            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "Back-end", "Webudvikling", "Webdesign", "Grafisk design"]'>
                 <span class="wrap"></span>
             </div>
         </h1>
         <p class="text-xl-center main__text__body">
-            Jeg hedder Søren og studere til Multimediedesign på Zealand.
+            Navnet er Søren. Jeg arbejder med at designe og kode brugervenlige websites.
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
-            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="musikdatabase.php" role="button">Se her</a>
+            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="funkesmultiservice.php" role="button">Se her</a>
         </div>
     </div>
     <div class="ps-1 pe-2 my-auto">
@@ -49,13 +49,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/musiclookupwebsit.png" class="card-img-top card__img__size" alt="billede af websitet Music Lookup">
+                <img src="img/funkes.svg" class="card-img-top card__img__size" alt="billede af websitet Funekes Multiservice på en pc">
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title text-center mb-3">Music Lookup</h5>
-                    <p class="card-text">En øvelse i at kode med php, opsætte en databasen og lave en API.</p>
+                    <h5 class="card-title text-center mb-3">Funkes Multiservice</h5>
+                    <p class="card-text">Redesign af en mekanikers website i Squarespace</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="musikdatabase.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
+                    <a href="funkesmultiservice.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -64,13 +64,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/kaffetaarn.png" class="card-img-top card__img__size" alt="billede af websitet Kaffetår'N">
+                <img src="img/falk.svg" class="card-img-top card__img__size" alt="billede af websitet Falk Fysioterapi på en pc">
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title text-center mb-3">Kaffetår'N</h5>
-                    <p class="card-text">Branding af en ny cafe gemmen digitale platforme</p>
+                    <h5 class="card-title text-center mb-3">Falk Fysioterapi</h5>
+                    <p class="card-text">Webdesign og branding af en opstarts virksomhed</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="kaffetaarn.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
+                    <a href="falkfysioterapi.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -79,13 +79,13 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                <img src="img/lokalitee.png" class="card-img-top card__img__size" alt="billede af websitet LOKALITEE">
+                <img src="img/eatit.svg" class="card-img-top card__img__size" alt="billede af websitet Eatit app på en mobil">
                 </div>
                 <div class="card-body d-flex flex-column">
-                    <h5 class="card-title text-center mb-3">LOKALITEE</h5>
-                    <p class="card-text">Webshoppen der sælger t-shirt med tryk af din by</p>
+                    <h5 class="card-title text-center mb-3">Eatit</h5>
+                    <p class="card-text">En app ide til at nedbringe madspild</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="lokalitee.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
+                    <a href="eatit.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>

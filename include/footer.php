@@ -24,7 +24,7 @@
         <h4 class="mb-3">Menu</h4>
         <div class="text-lg-end d-lg-flex flex-column">
         <a class="fs-5 mx-2 mx-lg-0" href="index.php">Forside</a>
-        <a class="fs-5 mx-2 mx-lg-0" href="musikdatabase.php">Projekter</a>
+        <a class="fs-5 mx-2 mx-lg-0" href="funkesmultiservice.php">Projekter</a>
         <a class="fs-5 mx-2 mx-lg-0" href="ommig.php">Om mig</a>
         <a class="fs-5 mx-2 mx-lg-0" href="kontakt.php">Kontakt</a>
         </div>
