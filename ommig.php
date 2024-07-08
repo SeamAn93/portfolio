@@ -85,7 +85,7 @@
             </div>
             <div class="d-grid gap-2 gap-md-5 col-10 mx-auto d-md-flex justify-content-md-center">
                 <a href="pdf/CV2.pdf" target="_blank" class="btn btn-primary btn-lg mt-4 d-flex justify-content-center btn__size"><img src="img/cvicon.png" alt="papir ikon" class="btn__icon__size me-2 my-auto">CV</a>
-                <a href="kontakt.php" class="btn btn-primary btn-lg mt-4 d-flex justify-content-center btn__size"><img src="img/contactphone.png" alt="telefon kontakt icon" class="btn__icon__size me-2 my-auto">Kontakt</a>
+                <a href="kontakt" class="btn btn-primary btn-lg mt-4 d-flex justify-content-center btn__size"><img src="img/contactphone.png" alt="telefon kontakt icon" class="btn__icon__size me-2 my-auto">Kontakt</a>
             </div>
         </div>
 

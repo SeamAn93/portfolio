@@ -36,7 +36,7 @@
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">
-            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="funkesmultiservice.php" role="button">Se her</a>
+            <a class="btn btn-primary btn-lg mt-4 btn__glow" href="funkesmultiservice" role="button">Se her</a>
         </div>
     </div>
     <div class="ps-1 pe-2 my-auto">
@@ -55,7 +55,7 @@
                     <h5 class="card-title text-center mb-3">Funkes Multiservice</h5>
                     <p class="card-text">Redesign af en mekanikers website i Squarespace</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="funkesmultiservice.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
+                    <a href="funkesmultiservice" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                     <h5 class="card-title text-center mb-3">Falk Fysioterapi</h5>
                     <p class="card-text">Webdesign og branding af en opstarts virksomhed</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="falkfysioterapi.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
+                    <a href="falkfysioterapi" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                     <h5 class="card-title text-center mb-3">Eatit</h5>
                     <p class="card-text">En app ide til at nedbringe madspild</p>
                     <div class="d-flex justify-content-center mt-auto">
-                    <a href="eatit.php" class="btn btn-primary btn-lg mt-4">Læs mere</a>
+                    <a href="eatit" class="btn btn-primary btn-lg mt-4">Læs mere</a>
                     </div>
                 </div>
             </div>

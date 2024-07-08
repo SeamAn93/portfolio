@@ -18,24 +18,24 @@
                     </a>
                 </li>
                 <li class="nav-item me-2">
-                    <a class="nav__link__text nav-link" href="index.php">Forside</a>
+                    <a class="nav__link__text nav-link" href="index">Forside</a>
                 </li>
                 <li class="nav-item dropdown me-2">
-                    <a class="nav__link__text nav-link dropdown-toggle" href="kompetencer.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav__link__text nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Projekter
                     </a>
                     <ul class="dropdown-menu rounded bg-black" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item text-white" href="funkesmultiservice.php">Funkes Multiservice</a></li>
-                        <li><a class="dropdown-item text-white" href="falkfysioterapi.php">Falk Fysioterapi</a></li>
-                        <li><a class="dropdown-item text-white" href="eatit.php">Eatit</a></li>
+                        <li><a class="dropdown-item text-white" href="funkesmultiservice">Funkes Multiservice</a></li>
+                        <li><a class="dropdown-item text-white" href="falkfysioterapi">Falk Fysioterapi</a></li>
+                        <li><a class="dropdown-item text-white" href="eatit">Eatit</a></li>
                         <!-- <li><a class="dropdown-item text-white" href="galleri.php">Galleri</a></li> -->
                     </ul>
                 </li>
                 <li class="nav-item me-2">
-                    <a class="nav__link__text nav-link" href="ommig.php">Om mig</a>
+                    <a class="nav__link__text nav-link" href="ommig">Om mig</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav__link__text nav-link" href="kontakt.php">Kontakt</a>
+                    <a class="nav__link__text nav-link" href="kontakt">Kontakt</a>
                 </li>
             </ul>
         </div>
