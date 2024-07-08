@@ -23,7 +23,7 @@
     <div class="footer__nav text-center text-lg-end text-white mt-5 mb-4">
         <h4 class="mb-3">Menu</h4>
         <div class="text-lg-end d-lg-flex flex-column">
-        <a class="fs-5 mx-2 mx-lg-0" href="index">Forside</a>
+        <a class="fs-5 mx-2 mx-lg-0" href="/">Forside</a>
         <a class="fs-5 mx-2 mx-lg-0" href="funkesmultiservice">Projekter</a>
         <a class="fs-5 mx-2 mx-lg-0" href="ommig">Om mig</a>
         <a class="fs-5 mx-2 mx-lg-0" href="kontakt">Kontakt</a>
