@@ -25,7 +25,7 @@
                         <li><a class="dropdown-item text-white" href="funkesmultiservice">Funkes Multiservice</a></li>
                         <li><a class="dropdown-item text-white" href="falkfysioterapi">Falk Fysioterapi</a></li>
                         <li><a class="dropdown-item text-white" href="eatit">Eatit</a></li>
-                        <!-- <li><a class="dropdown-item text-white" href="galleri.php">Galleri</a></li> -->
+                        <li><a class="dropdown-item text-white" href="galleri.php">Galleri</a></li>
                     </ul>
                 </li>
                 <li class="nav-item me-2">

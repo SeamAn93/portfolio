@@ -27,12 +27,12 @@
 <main class="main d-flex bg-black justify-content-evenly py-5">
     <div class="main__text flex-md-column align-self-md-center text-white ps-2 pe-1">
     <h1 class="text-xl-center main__text__header mb-4">
-            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "Back-end", "Webudvikling", "Webdesign", "Grafisk design"]'>
+            <div class="typewrite" data-period="2000" data-type='[ "Front-end", "Digital designer", "Webudvikling", "Webdesign", "Grafisk design"]'>
                 <span class="wrap"></span>
             </div>
         </h1>
         <p class="text-xl-center main__text__body">
-            Navnet er Søren. Jeg arbejder med at designe og kode brugervenlige websites.
+            Navnet er Søren. Kreativ og engageret multimediedesigner med fokus på digital design, webdesign og udvikler.
             <br><br>
             Find ud af, hvad jeg kan.</p>
         <div class="d-xl-flex justify-content-xl-center">

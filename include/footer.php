@@ -25,6 +25,7 @@
         <div class="text-lg-end d-lg-flex flex-column">
         <a class="fs-5 mx-2 mx-lg-0" href="/">Forside</a>
         <a class="fs-5 mx-2 mx-lg-0" href="funkesmultiservice">Projekter</a>
+        <a class="fs-5 mx-2 mx-lg-0" href="galleri">Galleri</a>
         <a class="fs-5 mx-2 mx-lg-0" href="ommig">Om mig</a>
         <a class="fs-5 mx-2 mx-lg-0" href="kontakt">Kontakt</a>
         </div>
