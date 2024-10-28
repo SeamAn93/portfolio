@@ -2,7 +2,7 @@
 <html lang="da">
 <head>
     <meta charset="utf-8">
-    <title>Kaffetår'n</title>
+    <title>Galleri</title>
     <meta name="robots" content="All">
     <meta <meta name="author" content="Søren Andersen">
     <meta name="copyright" content="© Søren Andersen, 2021">
@@ -26,27 +26,78 @@
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
+                    <a href="pdf/musik-i-hjemmevaernet.pdf" target="_blank">
+                        <img src="img/hjv.jpg" class="card-img-top card__img__size" alt="billede af projekt">
+                    </a>
+                </div>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">Musik i Hjemmeværnet</h5>
+                    <p class="card-text">En folder til rekruttering nye medlemmer til at spille musik i Hjemmeværnet. Udført ud fra Hjemmeværnets egen style guide. </p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="pdf/Styleguide%20Kaffetår'n.pdf" target="_blank">
+                        <img src="img/kaffetaarn.jpg" class="card-img-top card__img__size" alt="billede af projekt">
+                    </a>
+                </div>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">Kaffetår'n</h5>
+                    <p class="card-text">En style guide der blev produceret for en lille virksomhed med de vigtigste informationer om deres visuelle identitet.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/nfc-skilte.png" target="_blank">
+                        <img src="img/nfc-skilte.png" class="card-img-top card__img__size" alt="billede af projekt">
+                    </a>
+                </div>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">Madskilte</h5>
+                    <p class="card-text">Et par skilte til fodboldklubben NFC i stil med deres visuelle identitet. Skiltene er lavet i Photoshop.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
                     <a href="img/moodboardmusikvideo.jpg" target="_blank">
                         <img src="img/moodboardmusikvideo.jpg" class="card-img-top card__img__size" alt="moodboard til musikvideoen The Heart of the Stoics">
                     </a>
                 </div>
-            </div>
-        </div>
-        <div class="col mb-5 d-flex align-items-stretch">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size bg-imgcard">
-                    <a href="pdf/Styleguide%20musikvideo.pdf" target="_blank">
-                        <img src="img/musikstyleguide.png" class="card-img-top card__img__size" alt="styleguide for musikkeren Christian Buono">
-                    </a>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">Moodboard</h5>
+                    <p class="card-text">Visualisering af stemningen og design stilen til en musikvideo med musikeren Christian Buono.<br>YouTube - The Heart of the Stoics.</p>
                 </div>
             </div>
         </div>
         <div class="col mb-5 d-flex align-items-stretch">
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
-                    <a href="http://www.s-andersen.dk/christianbuono/" target="_blank">
-                        <img src="img/musikvideowebsit.png" class="card-img-top card__img__size" alt="Websit til musikvideoen The Heart of the Stoics">
+                    <a href="img/Informations%20arkitektur%20eatit.png" target="_blank">
+                        <img src="img/Informations%20arkitektur%20eatit.png" class="card-img-top card__img__size" alt="billede af projekt">
                     </a>
+                </div>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">Informationsarkitektur</h5>
+                    <p class="card-text">Overblik over hvilke sider der skulle være i Eatit appen, og give indsigt i sturkturen i forhold hold til findbarheden af forskellige informationer i appen.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col mb-5 d-flex align-items-stretch">
+            <div class="card mx-auto" style="width: 18rem;">
+                <div class="card__img__size bg-imgcard">
+                    <a href="img/slider.PNG" target="_blank">
+                        <img src="img/slider.PNG" class="card-img-top card__img__size" alt="billede af projekt">
+                    </a>
+                </div>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">UX-design</h5>
+                    <p class="card-text">Flere iterationer af en slider til et announcement flow for virksomheden Waitly. Meningen var at gøre slideren mere informativ og brugervenlig.</p>
                 </div>
             </div>
         </div>
@@ -54,57 +105,15 @@
             <div class="card mx-auto" style="width: 18rem;">
                 <div class="card__img__size bg-imgcard">
                     <a href="img/ujmlions.png" target="_blank">
-                        <img src="img/ujmlions.png" class="card-img-top card__img__size" alt="User Journey Map for Lions Nykøbing F før redesign">
+                        <img src="img/ujmlions.png" class="card-img-top card__img__size" alt="ser Journey Map for Lions Nykøbing F før redesign">
                     </a>
+                </div>
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-center mb-3">User Journey Map</h5>
+                    <p class="card-text">En undersøgelse af en brugers udfordring i at finde rundt på et website, og til at give et overblik over, hvor brugervenlighed kan forbedres.</p>
                 </div>
             </div>
         </div>
-        <div class="col mb-5 d-flex align-items-stretch">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size bg-imgcard">
-                    <a href="pdf/Styleguide%20Lions.pdf" target="_blank">
-                        <img src="img/lionsstyleguide.png" class="card-img-top card__img__size" alt="styleguide for Lions Nykøbing F">
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="col mb-5 d-flex align-items-stretch">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size bg-imgcard">
-                    <a href="http://www.s-andersen.dk/master/" target="_blank">
-                        <img src="img/lions.png" class="card-img-top card__img__size" alt="websit for Lions Nykøbing F">
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="col mb-5 d-flex align-items-stretch">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size bg-imgcard">
-                    <a href="img/muckupnavneflasken.png" target="_blank">
-                        <img src="img/muckupnavneflasken.png" class="card-img-top card__img__size" alt="mockups af betalingsside på Navneflasken">
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="col mb-5 d-flex align-items-stretch">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size bg-imgcard">
-                    <a href="img/tid.png" target="_blank">
-                        <img src="img/tid.png" class="card-img-top card__img__size" alt="en collage om emner tid og barndom">
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="col mb-5 d-flex align-items-stretch">
-            <div class="card mx-auto" style="width: 18rem;">
-                <div class="card__img__size bg-imgcard">
-                    <a href="img/codeklogprocess.png" target="_blank">
-                        <img src="img/codeklogprocess.png" class="card-img-top card__img__size" alt="design af logo til en klub">
-                    </a>
-                </div>
-            </div>
-        </div>
-
 
     </div>
 </main>
